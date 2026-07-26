@@ -3,6 +3,8 @@
 生成日期：2026-07-26  
 调研主题：ADC（antibody-drug conjugate，抗体药物偶联物）
 
+> 2026-07-26重新审查提示：本文件目前只能作为第一轮草案，不能作为“ADC领域所有CNS系列及子刊论文”的最终完整清单。重新审查已确认至少缺失3篇Nature Medicine ADC临床研究论文，详见 `两次调研重新审查报告.md`。
+
 ## 0. 口径说明
 
 ### 已确认事实
@@ -10,6 +12,7 @@
 1. 本清单只纳入 Cell、Nature、Science 系列及其子刊/期刊族中，主题实质属于 ADC 的论文、综述、Perspective、News & Views、News Analysis 或临床研究文章。
 2. ADC 领域远大于“双payload ADC”。如果把“正文中偶然提到 ADC”的疾病综述、新闻简讯、校正、Research Highlight 也全部纳入，数量会继续扩大，且会显著降低清单可用性。
 3. 本轮检索确认 Nature Portfolio 命中最多；Cell Press 命中少但有关键论文；Science/AAAS 主刊与 Science Translational Medicine 未检出明确以 ADC 为主题的核心论文。
+4. 本清单当前收录CNS系列及其子刊/期刊族ADC相关条目共69条：Nature Portfolio / Nature系列63条，Cell Press / Cell系列4条，Science Partner Journals边界项2条。由于重新审查已确认存在漏项，该数字只代表当前清单收录总数，不代表ADC领域CNS论文真实总数。
 
 ### 合理推测
 
@@ -87,6 +90,7 @@
 | N60 | An anti-PMEL antibody-drug conjugate with a Gq/11 inhibitor payload in GNAQ/GNA11-mutant melanomas: a phase 1 trial | Nature Medicine | 2026 | 58.7（待JCR复核） | Matteo S. Carlino, Ellen Kapiteijn, Sophie Piperno-Neumann 等 | Westmead and Blacktown Hospitals, University of Sydney；澳大利亚 | DYP688 I期试验，PMEL ADC递送Gq/11 inhibitor payload治疗GNAQ/GNA11突变黑色素瘤。 | PMEL ADC；uveal melanoma；Gq/11 inhibitor；I期临床 | [Nature Medicine](https://www.nature.com/articles/s41591-026-04518-z) |
 | N61 | Antibody-drug conjugates in gynaecological cancers: opportunities and challenges | Nature Reviews Clinical Oncology | 2026 | 94.6 | Kathleen N. Moore, Oladapo O. Yeku, Brooke E. Howitt 等 | Fred & Pamela Buffett Cancer Center, University of Nebraska Medical Center；美国 | 妇科肿瘤ADC综述，覆盖mirvetuximab soravtansine、T-DXd、tisotumab vedotin及开发挑战。 | 妇科肿瘤；FRalpha ADC；HER2 ADC；TF ADC | [Nature](https://www.nature.com/articles/s41571-026-01164-9) |
 | N62 | Eli Lilly inks dual-payload ADCs deal | Nature Reviews Drug Discovery | 2026 | 91.2 | Asher Mullard | Nature Reviews Drug Discovery 新闻作者；机构不适用 | 新闻简报，报道Eli Lilly收购CrossBridge Bio及dual-payload ADC交易。 | dual-payload ADC；产业交易；CrossBridge Bio | [Nature](https://www.nature.com/articles/d41573-026-00079-5) |
+| N63 | Real-Time Analysis on Drug-Antibody Ratio of Antibody-Drug Conjugates for Synthesis, Process Optimization, and Quality Control | Scientific Reports | 2017 | 4.9 | Yubo Tang, Feng Tang, Yang Yang, Lei Zhao, Hu Zhou, Jinhua Dong, Wei Huang 等 | Key Laboratory of Structure-Based Drug Design and Discovery, Shenyang Pharmaceutical University；中国。共同第一作者另属 Shanghai Institute of Materia Medica, Chinese Academy of Sciences；中国 | 原始方法学论文。论文制备并分析Herceptin来源的DM1/MMAE dual-payload ADC，核心贡献是DAR快速分析、合成过程优化和质控。 | dual-payload ADC质控；DAR；LC-MS；DM1/MMAE；工艺优化 | [Scientific Reports](https://www.nature.com/articles/s41598-017-08151-2) |
 
 ## 2. Cell Press / Cell系列
 

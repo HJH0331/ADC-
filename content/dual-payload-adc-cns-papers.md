@@ -4,16 +4,25 @@
 
 ## 口径说明
 
-已确认事实：本清单仍限制在CNS系列及子刊/期刊族，执行口径为 Cell Press/Cell 系列、Nature Portfolio/npj/Scientific Reports、Science/AAAS 系列及Science Partner Journals。  
-本版“解除评价标准”指不再按影响力、团队权威或相关性强弱筛掉低优先级文献；但不解除“CNS系列及子刊”来源限制。
+### 已确认事实
 
-合理推测：由于“双payload ADC”同义词不统一，实际检索需覆盖 dual-payload ADC、dual payload ADC、dual-drug ADC、multi-payload ADC、multi payload ADC、multiple payload ADC 等表达。
+1. 本清单仍限制在CNS系列及子刊/期刊族，执行口径为 Cell Press/Cell 系列、Nature Portfolio/npj/Scientific Reports、Science/AAAS 系列及Science Partner Journals。
+2. 本版“解除评价标准”指不再按影响力、团队权威或相关性强弱筛掉低优先级文献；但不解除“CNS系列及子刊”来源限制。
+3. 本清单当前收录CNS系列及其子刊/期刊族双payload ADC相关条目共14条：Nature Portfolio / Nature系列14条，Cell Press / Cell系列0条，Science/AAAS系列及Science Partner Journals 0条。
 
-暂时无法验证的信息：不能保证覆盖被全文数据库屏蔽、只在PDF图注/补充材料中出现但网页不可检索的所有边缘提及。下列清单是基于Nature官网、PubMed和站内关键词检索可核验到的结果。
+### 合理推测
 
-个人判断：Acta Pharmacologica Sinica、Signal Transduction and Targeted Therapy、Oncogene、British Journal of Cancer 等虽在 nature.com 或 Springer Nature 平台，但不是严格意义的 Nature Portfolio / CNS子刊品牌；本清单不纳入。Nature Partner Content 和公司广告内容也不纳入。
+由于“双payload ADC”同义词不统一，实际检索需覆盖 dual-payload ADC、dual payload ADC、dual-drug ADC、multi-payload ADC、multi payload ADC、multiple payload ADC 等表达。
 
-## 全口径清单
+### 暂时无法验证的信息
+
+不能保证覆盖被全文数据库屏蔽、只在PDF图注/补充材料中出现但网页不可检索的所有边缘提及。下列清单是基于Nature官网、PubMed和站内关键词检索可核验到的结果。
+
+### 个人判断
+
+Acta Pharmacologica Sinica、Signal Transduction and Targeted Therapy、Oncogene、British Journal of Cancer 等虽在 nature.com 或 Springer Nature 平台，但不是严格意义的 Nature Portfolio / CNS子刊品牌；本清单不纳入。Nature Partner Content 和公司广告内容也不纳入。
+
+## 1. Nature Portfolio / Nature系列
 
 | 序号 | 文献标题 | 期刊 | 年份 | JIF | 作者 | 第一作者所属团队（机构/学校）及国家 | 简介 | 研究方向 | 可用文献链接 |
 |---:|---|---|---:|---:|---|---|---|---|---|
@@ -32,11 +41,15 @@
 | 13 | Supramolecular coiled-coil peptide platform for site-specific antibody drug conjugate engineering | Nature Communications | 2026 | 18.1（2025 JIF） | Alina Ringaci, Ting-Yu Shih, Mark W. Grinstaff | 第一作者所属机构本轮网页片段未完整核验；通讯作者 Mark W. Grinstaff 团队，美国 | 原始工程平台论文。文章展示coiled-coil peptide平台可构建dual-payload loaded antibodies，使用Fluor488/Fluor647作为模型payload。由于是荧光模型payload，不等同于治疗性双细胞毒payload ADC。DOI：10.1038/s41467-026-70094-y。 | site-specific ADC engineering；coiled-coil peptide；dual-payload loaded antibody conjugates；模型payload | [Nature Communications](https://www.nature.com/articles/s41467-026-70094-y) |
 | 14 | Eli Lilly inks dual-payload ADCs deal | Nature Reviews Drug Discovery | 2026 | 91.2（2025 JIF） | Asher Mullard | Nature Reviews Drug Discovery 新闻/编辑作者；科研团队不适用 | 新闻简报，直接讨论Eli Lilly收购CrossBridge Bio相关dual-payload ADC交易。用于产业转化信息核验，不是原始研究论文。DOI：10.1038/d41573-026-00079-5；PMID：42115747。 | dual-payload ADC产业交易；CrossBridge Bio；Eli Lilly；转化价值 | [Nature Reviews Drug Discovery](https://www.nature.com/articles/d41573-026-00079-5)；[PubMed](https://pubmed.ncbi.nlm.nih.gov/42115747/) |
 
-## 未检出或排除项
+## 2. Cell Press / Cell系列
 
-已确认事实：本轮使用 `site:cell.com` 与 `site:science.org` 检索 dual-payload、dual payload、dual-drug、multi-payload、multi payload、two distinct payloads 等组合，未发现 Cell Press 或 Science/AAAS 体系内直接以双payload ADC为实质主题的论文。
+本轮使用 `site:cell.com` 检索 dual-payload、dual payload、dual-drug、multi-payload、multi payload、two distinct payloads 等组合，未发现 Cell Press 体系内直接以双payload ADC为实质主题的论文。当前收录条目数：0。
 
-排除项：
+## 3. Science / AAAS系列与Science Partner Journals
+
+本轮使用 `site:science.org` 检索 dual-payload、dual payload、dual-drug、multi-payload、multi payload、two distinct payloads 等组合，未发现 Science/AAAS 体系或Science Partner Journals内直接以双payload ADC为实质主题的论文。当前收录条目数：0。
+
+## 4. 排除说明
 
 1. Nature Partner Content / 公司广告文章，例如 CrossBridge Bio 的 “A turning point for ADCs”，不是独立同行评议论文。
 2. Acta Pharmacologica Sinica 2026 的 “Recent advances in function-enhanced antibody-drug conjugates: Antibody optimization and payload combination” 虽高度相关，但按严格CNS/Nature Portfolio品牌口径不纳入。
