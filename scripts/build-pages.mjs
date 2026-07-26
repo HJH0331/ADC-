@@ -70,6 +70,19 @@ const documents = [
     purpose: "用于补充 01-03 的论文质量判断，区分原始研究、综述、新闻/行业动态和间接背景材料。",
     outcomes: ["CNS/子刊论文清单", "JIF 与机构信息", "研究方向标注", "排除项说明"],
     useCases: ["论文质量核查", "查找高影响综述和原始研究", "判断团队权威等级是否需要上调或降级"]
+  },
+  {
+    key: "F",
+    source: "content/adc-cns-paper-list.md",
+    output: "detail-adc-cns-paper-list.html",
+    title: "ADC CNS 系列及子刊论文清单",
+    shortTitle: "ADC CNS 论文清单",
+    category: "论文证据库",
+    tag: "资料 F",
+    lead: "按 CNS 系列及子刊/期刊族口径整理 ADC 领域相关论文，用于校准来源质量和高影响证据。",
+    purpose: "用于补充 ADC linker、双 payload ADC 和团队调研中的论文质量判断，区分原始研究、综述、新闻分析、临床研究和间接背景材料。",
+    outcomes: ["ADC CNS/子刊论文清单", "Nature/Cell/Science 期刊族来源", "JIF 与机构信息", "研究方向标注"],
+    useCases: ["论文质量核查", "查找 ADC 高影响综述和原始研究", "补强团队/公司权威等级判断"]
   }
 ];
 

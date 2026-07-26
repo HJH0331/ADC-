@@ -12,6 +12,7 @@
 - `detail-03-dual-payload-adc-linker-teams.html`：双 payload ADC linker 顶尖团队/公司研究方向与科研关系报告
 - `detail-04-dual-payload-adc-team-details.html`：双 payload ADC 部分团队/公司详细情况报告
 - `detail-cns-paper-list.html`：双 payload ADC CNS 系列及子刊全口径论文清单
+- `detail-adc-cns-paper-list.html`：ADC CNS 系列及子刊论文清单
 
 ## 资料来源
 
@@ -36,4 +37,3 @@ https://hjh0331.github.io/ADC-/
 ```bash
 node scripts/build-pages.mjs
 ```
-
