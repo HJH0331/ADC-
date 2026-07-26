@@ -420,7 +420,7 @@ function renderIndex() {
         <ul>
           <li>3 份初始领域团队调研</li>
           <li>1 份重点团队详细档案</li>
-          <li>1 份 CNS 全口径论文清单</li>
+          <li>2 份 CNS/子刊论文证据清单</li>
           <li>每页统一标注标准调研日期</li>
         </ul>
       </div>
@@ -433,7 +433,7 @@ function renderIndex() {
     </section>
     <section id="library" class="wrap">
       <h2>资料分类详情页</h2>
-      <p class="sub">点击每张卡片进入对应详情页。01-03 是初始领域团队调研，04 是 01 中部分团队的详细档案，CNS 清单用于校准高质量论文证据。</p>
+      <p class="sub">点击每张卡片进入对应详情页。01-03 是初始领域团队调研，04 是 01 中部分团队的详细档案，资料 E-F 用于校准高质量论文证据。</p>
       <div class="grid-2">${tasks}</div>
     </section>
     <section id="workflow" class="wrap">
@@ -443,7 +443,7 @@ function renderIndex() {
           <li>先看资料 A，建立双 payload ADC 团队/公司主图谱。</li>
           <li>再看资料 B 和 C，分别拆分 ADC linker 与双 payload linker 的技术证据。</li>
           <li>对重点团队进入资料 D，查看更详细的组织、成果、成员和合作网络。</li>
-          <li>最后用资料 E 核查 CNS/子刊论文来源质量，校正权威等级和代表论文优先级。</li>
+          <li>最后用资料 E-F 核查 CNS/子刊论文来源质量，校正权威等级和代表论文优先级。</li>
         </ul>
       </div>
     </section>
