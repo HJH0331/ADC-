@@ -1,26 +1,35 @@
-# ADC linker 报告库
+# ADC 调研资料库平台
 
-本仓库用于发布 ADC linker 与双 payload ADC linker 调研报告的 GitHub Pages 静态网页。
+本仓库用于发布 ADC 调研资料库 GitHub Pages。
 
-## 页面
+标准调研日期：2026-07-26
 
-- `index.html`：报告入口页
-- `adc-linker-report.html`：ADC linker 领域顶尖团队/公司研究方向与科研关系报告
-- `dual-payload-linker-report.html`：双 payload ADC linker 顶尖团队/公司研究方向与科研关系报告
+## 页面结构
 
-## GitHub Pages 设置
+- `index.html`：ADC 调研资料库平台入口
+- `detail-01-dual-payload-adc-teams.html`：双 payload ADC 顶尖团队/公司研究方向与科研关系报告
+- `detail-02-adc-linker-teams.html`：ADC linker 顶尖团队/公司研究方向与科研关系报告
+- `detail-03-dual-payload-adc-linker-teams.html`：双 payload ADC linker 顶尖团队/公司研究方向与科研关系报告
+- `detail-04-dual-payload-adc-team-details.html`：双 payload ADC 部分团队/公司详细情况报告
+- `detail-cns-paper-list.html`：双 payload ADC CNS 系列及子刊全口径论文清单
 
-如果页面还不能访问，需要在 GitHub 仓库中开启 Pages：
+## 资料来源
 
-1. 进入仓库 `Settings`
-2. 打开 `Pages`
-3. `Build and deployment` 选择 `Deploy from a branch`
-4. Branch 选择 `main`，目录选择 `/root`
-5. 保存后等待 GitHub 部署完成
+原始 Markdown 文件保存在 `content/` 目录。网页由 `scripts/build-pages.mjs` 自动生成。
 
-启用后入口通常是：
+## GitHub Pages
+
+启用 Pages 后入口通常是：
 
 https://hjh0331.github.io/ADC-/
+
+仓库设置路径：
+
+1. 进入 GitHub 仓库 `Settings`
+2. 打开 `Pages`
+3. `Build and deployment` 选择 `Deploy from a branch`
+4. Branch 选择 `main`
+5. Folder 选择 `/root`
 
 ## 本地重新生成
 

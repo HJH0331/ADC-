@@ -1,0 +1,298 @@
+﻿# 03_双 payload ADC linker 领域顶尖团队/公司研究方向与科研关系报告
+
+## 1. 权威等级口径
+Linker 核心直接团队-A：必须同时满足三点：有直接 dual-payload ADC linker / linker-payload / conjugation 架构论文；论文来源质量高，通常为高影响同行评议期刊或领域顶级专业期刊；已有较强实验完整性、外部引用/综述吸收或明确平台影响。不能只因为“主题直接”就给 A。
+
+Linker 核心直接团队-B+：主题高度直接，确实有 dual-payload linker / conjugation 原创证据，但论文影响力、引用积累、外部验证、连续研究或临床/产业转化证据暂未达到 A。此类团队应纳入报告，但不应与 A 级团队混评。
+
+Linker 核心直接团队-B：有直接 dual-payload linker 或 dual-site conjugation 证据，但论文影响力、连续性、体内验证或转化成熟度低于 A 级。
+
+Linker 方法支撑团队-A：不是每篇都直接做 dual-payload ADC，但在多 payload 偶联、正交化学、DAR/DDR 控制方面提供高质量方法学基础。
+
+综述/框架权威-A：论文质量高、总结范围直接覆盖 homogeneous dual/multi-payload ADC linker 方法，但自身不是原创药效验证团队。
+
+产业跟踪-B/C：公司公开声称有 dual-payload linker-payload 平台或会议报告，但缺少可核验的同行评议论文；只能作为跟踪线索，不作为强证据。
+
+## 2. 团队/公司总览
+
+| 团队/公司 | 类型 | 国家 | 权威等级 | linker 相关主线 | 代表证据，不用论文编号 |
+|---|---|---|---|---|---|
+| Tsuchikama/Yamazaki 团队 | 学术团队 | 美国 | Linker 核心直接团队-A | MTGase 定点引入 bifunctional branched linker；azide/DBCO 与 methyltetrazine/TCO 正交点击；GluValCit-PABC 可裂解释放 | Antibody-drug conjugates with dual payloads for combating breast tumor heterogeneity and drug resistance |
+| Ajinomoto AJICAP 团队 | 公司团队 | 日本/美国 | Linker 核心直接团队-B+ | AJICAP lysine site-selective conjugation + interchain-break conjugation；DAR 2+8 或 DAR10 dual-payload ADC | Homogeneous Dual-Payload Antibody-Drug Conjugates Produced by Combined Distinct Conjugation Strategies |
+| Kanghong 双 payload linker 平台团队 | 公司团队 | 中国 | Linker 核心直接团队-B+ | cysteine + glycosite 双偶联；exatecan/triptolide 双 linker；错峰释放/分步释放 | A Novel Dual-Payload ADC Platform Integrating Exatecan and Triptolide to Enhance Antitumor Efficacy and Overcome Resistance |
+| HuaO/Multitude SPARC 团队 | 公司/学术合作团队 | 中国/美国 | Linker 核心直接团队-B+ | Multi-T1000 payload moiety；2-6 payload programmable linker-payload；高 DAR 与 payload ratio 可调 | SPARC: A Multipayload ADC Architecture for Programmable Drug Combinations |
+| Bernardes 团队 | 学术团队 | 英国 | 综述/框架权威-A | homogeneous multi-payload ADC linker 方法比较；branched linker、非天然氨基酸、多位点修饰框架 | Homogeneous multi-payload antibody-drug conjugates；Site-Specific Quadruple-Functionalised Antibodies |
+| Sutro 团队 | 公司团队 | 美国 | 综述/框架权威-B+ | homogeneous dual-payload ADC 方法综述；branched multifunctional linkers、disulfide bridging、mTG 等路线比较 | Homogeneous antibody-drug conjugates with dual payloads: potential, methods and considerations |
+| Seagen ADC 化学团队 | 公司团队 | 美国 | Linker 方法支撑团队-A | 正交半胱氨酸保护；selective deprotection；multi-drug ADC linker 方法 | Orthogonal Cysteine Protection Enables Homogeneous Multi-Drug Antibody-Drug Conjugates |
+| Chudasama 团队 | 学术团队 | 英国 | Linker 方法支撑团队-B+ | pyridazinedione、p-anisidine、点击化学；multi-payload thio-antibody conjugates | Enabling the synthesis of multi-payload thio-antibody conjugates through the use of pyridazinediones, p-anisidine derivatives and various click chemistries |
+| Liu/Zhou 团队 | 学术团队 | 美国 | Linker 核心直接团队-B+ | cysteine/lysine two-site co-conjugation；DBM-Val-Cit-PABC 与 TLR agonist linker；DAR/DDR 分析 | A Dual-Payload Antibody-Drug Conjugate Targeting CD276/B7-H3 Elicits Cytotoxicity and Immune Activation in Triple-Negative Breast Cancer；Advanced CD276-Targeting Dual-Payload Antibody-Drug Conjugates for Cancer Therapy |
+| Rader/Roush 团队 | 学术团队 | 美国 | Linker 核心直接团队-B | engineered selenocysteine + cysteine 双位点 conjugation；iodoacetamide 与 ODA linker 顺序偶联 | Dual-mechanistic antibody-drug conjugate via site-specific selenocysteine/cysteine conjugation |
+| Mckertish/Kayser 团队 | 学术团队 | 暂无法完全核验 | Linker 核心直接团队-B | HER2 dual conjugate；VcMMAE 和 SMCC-DM1 两种 linker-payload 分别接到抗体不同位点 | A Novel Dual-Payload ADC for the Treatment of HER2+ Breast and Colon Cancer |
+| Feng Tang 相关团队 | 学术团队 | 暂无法完全核验 | Linker 核心直接团队-B | N-glycosylation remodeling；glycosite-specific dual-payload ADC | One-pot N-glycosylation remodeling of IgG with non-natural sialylglycopeptides enables glycosite-specific and dual-payload antibody-drug conjugates |
+
+## 3. 团队/公司详解
+
+### Tsuchikama/Yamazaki 团队
+
+- 类型：学术团队
+- 机构/公司：UTHealth Houston / Texas Therapeutics Institute；相关合作含 MD Anderson 等。
+- 国家：美国
+- 权威等级：Linker 核心直接团队-A
+- 核心成员：Kyoji Tsuchikama；Chisato M. Yamazaki；Yasuaki Anami；Zhiqiang An
+- 主要研究方向：双 payload ADC 的 branched linker 设计、MTGase 位点特异性偶联、正交点击安装两个 payload、可裂解 linker 释放。
+- 发散研究方向：payload ratio 设计、MMAE/MMAF 差异释放、HER2/TROP2 抗体适配、ADC hydrophobicity 与稳定性、异质性肿瘤中的 linker-payload 选择。
+- 代表论文：
+  - [Antibody-drug conjugates with dual payloads for combating breast tumor heterogeneity and drug resistance](https://pubmed.ncbi.nlm.nih.gov/34112795/)；Nat Commun，2021。该文的核心不是泛泛“双 payload”，而是开发带 azide 和 methyltetrazine 正交手柄的 bifunctional branched linker，经 MTGase 定点接到抗体 Q295，再用 TCO-MMAF 与 DBCO-MMAE 模块构建 MMAE/MMAF 2+2、4+2、2+4 等均一 dual-drug ADC。GluValCit-PABC linker 负责溶酶体内 cathepsin 触发后的快速、近无痕释放。
+  - [Antibody-drug conjugates: recent advances in conjugation and linker chemistries](https://pubmed.ncbi.nlm.nih.gov/27743348/)；Protein Cell，2018。ADC 偶联和 linker 化学综述，是该团队 linker 方法学背景，但不是 dual-payload 原创证据。
+  - [Exploring the next generation of antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/38191923/)；Nat Rev Clin Oncol，2024。下一代 ADC 综述，可用于定位 dual-payload linker 属于 ADC 工程升级方向。
+- 证据类型：直接 dual-payload branched linker 实验论文 + linker 综述背景。
+- 论文质量同步核查：Nat Commun 为高质量同行评议期刊，主题高度直接；Protein Cell 和 Nat Rev Clin Oncol 是综述/框架证据，质量可用但不替代原创 linker 实验证据。
+- 权威性判断：在 dual-payload ADC linker 方向可列第一梯队，因为论文同时解决“两个 payload 如何接上去”“接到哪里”“比例如何控制”“释放 linker 如何设计”和“体内是否有效”。
+- 证据限制：payload 组合主要是 MMAE/MMAF，且两个 payload 仍属于微管抑制剂相关机制；不能直接外推到 TOP1 + DDR、TOP1 + immune agonist 等异机制组合。
+- 可验证途径：PubMed 检索 PMID 34112795、27743348、38191923；Nature 页面检索 DOI 10.1038/s41467-021-23793-7。
+
+### Ajinomoto AJICAP 团队
+
+- 类型：公司团队
+- 机构/公司：Ajinomoto Co. / Ajinomoto Bio-Pharma Services 相关团队
+- 国家：日本/美国
+- 权威等级：Linker 核心直接团队-B+
+- 核心成员：Tomohiro Watanabe；Yusuke Iwai；Tomohiro Fujii；Yutaka Matsuda
+- 主要研究方向：组合两种 distinct conjugation strategies 制备 homogeneous dual-payload ADC；AJICAP lysine site-selective conjugation；interchain-break conjugation。
+- 发散研究方向：DAR 2+8、DAR10 高载药 ADC、MMAE + deruxtecan 组合、trastuzumab 模型抗体、低聚集度与稳定性、产业化偶联工艺。
+- 代表论文：
+  - [Homogeneous Dual-Payload Antibody-Drug Conjugates Produced by Combined Distinct Conjugation Strategies](https://pubmed.ncbi.nlm.nih.gov/40666474/)；ACS Med Chem Lett，2025。该文把第二代 AJICAP 技术和传统 interchain-break conjugation 组合起来，以 trastuzumab 为模型制备 DAR 10，即 2+8，MMAE + deruxtecan dual-payload ADC，并报告低聚集、稳定物化性质、HER2 阳性细胞体外活性和 NCI-N87 xenograft 体内抑瘤。
+- 证据类型：直接 dual-payload linker/偶联策略原创论文。
+- 论文质量同步核查：ACS Med Chem Lett 是药物化学专业同行评议期刊，主题直接性强；但该文为 2025 年单篇短文，期刊影响力和外部验证不足以支撑 A 级权威。
+- 权威性判断：在“如何把两种不同 conjugation 技术整合成可放大的均一双 payload ADC”方面属于核心直接证据团队；但更合适定为 B+，而不是 A。
+- 证据限制：公开证据目前主要是一篇短文；payload 组合和抗体模型仍需更多独立验证、连续论文和临床/CMC 公开资料。
+- 可验证途径：PubMed 检索 PMID 40666474；ACS 页面或 DOI resolver 检索 10.1021/acsmedchemlett.5c00209。
+
+### Kanghong 双 payload linker 平台团队
+
+- 类型：公司团队
+- 机构/公司：Chengdu Kanghong Pharmaceutical Group
+- 国家：中国
+- 权威等级：Linker 核心直接团队-B+
+- 核心成员：Pengfei Ren；Xiao Ke；Yonghao Zhao
+- 主要研究方向：TROP2 靶向 exatecan + triptolide dual-payload ADC；cysteine 与 glycosite 双偶联；两个 linker 的释放时序设计。
+- 发散研究方向：TOP1 inhibitor + RNA polymerase II inhibitor 组合、P-gp/HSP70 相关抗耐药、tetrapeptide linker、dipeptide cleavable linker、错峰释放、质量属性分析。
+- 代表论文：
+  - [A Novel Dual-Payload ADC Platform Integrating Exatecan and Triptolide to Enhance Antitumor Efficacy and Overcome Resistance](https://pubmed.ncbi.nlm.nih.gov/41121984/)；Mol Cancer Ther，2026。该文直接围绕 linker 设计展开：EXA 随机接到 hRS7 cysteine，使用 maleimide linker 和 dipeptide cleavable linker；TPL 通过带 DBCO 的 tetrapeptide linker 接到 hRS7 N301 糖基修饰位点。作者强调两个 payload 不是简单共挂，而是通过 distinct-time cleavage 实现 triptolide 先释放、exatecan 后逐步释放。
+  - [Advancements in Dual-Load Antibody-Drug Conjugates and Challenges with Quality Analysis](https://pubmed.ncbi.nlm.nih.gov/42356477/)；Pharmaceuticals，2026。双载荷 ADC 质量分析综述，对 dual linker 系统的 CQA、DAR/DDR 和分析复杂性有支撑意义。
+- 证据类型：直接 dual-payload linker-payload 平台论文 + 质量分析综述。
+- 论文质量同步核查：Mol Cancer Ther 是 AACR 旗下肿瘤药理专业期刊，来源质量合格且主题高度直接，但不是 CNS、CNS 子刊或领域最高影响力期刊；该文为 2026 年新近论文，引用、权威综述引用、后续独立实验验证和临床转化证据仍不足。Pharmaceuticals 综述质量可用，但主要作为质量分析背景。
+- 权威性判断：在“两个 linker 控制两个 payload 释放时序”这个细分问题上证据非常直接，可列为新兴核心直接团队；但按论文影响力和外部验证标准，暂不宜评为 A，调整为 B+ 更稳妥。
+- 证据限制：公开证据主要集中在 hRS7/TROP2 与 EXA/TPL 单一路线；错峰释放逻辑需要更多 payload 组合、体内 PK、临床安全性和独立团队复现实验验证。
+- 可验证途径：PubMed 检索 PMID 41121984、42356477；DOI resolver 检索 10.1158/1535-7163.MCT-25-0271、10.3390/ph19060860。
+
+### HuaO/Multitude SPARC 团队
+
+- 类型：公司/学术合作团队
+- 机构/公司：HuaO Therapeutics；Multitude Therapeutics；Sun Yat-sen University；University of Massachusetts Chan Medical School；Harvard Medical School/Brigham and Women's Hospital
+- 国家：中国/美国
+- 权威等级：Linker 核心直接团队-B+
+- 核心成员：Wenlong Sun；Weining Weng；Jing Shi；Yu Shi；Xun Meng；Wenhao Hu
+- 主要研究方向：SPARC multipayload ADC 架构；Multi-T1000 payload moiety；2-6 payload linker-payload 编程组装；payload ratio 与 DAR 可调。
+- 发散研究方向：TOP1 + DDR 组合、药代同步、off-target payload release 降低、steric shielding、hydrophilic masking、native antibody 或 THIOMAB conjugation。
+- 代表论文：
+  - [SPARC: A Multipayload ADC Architecture for Programmable Drug Combinations](https://pubmed.ncbi.nlm.nih.gov/40958380/)；Bioconjugate Chem，2025。该文提出 synergistic payload-antibody ratiometric conjugate，基于 clinical-stage T1000-ADC linker，把两个或多个 azide-alkyne clickable T1000 payload 通过 convergent synthesis 连接成 MTP，再直接接到 native antibody 或通过 THIOMAB 顺序偶联。论文报告 2-6 payload、总 DAR 最高 30、payload ratio 1-10 可调，并讨论 MTP 的 steric shielding 降低非靶向释放。
+- 证据类型：直接 multipayload linker-payload 架构原创论文。
+- 论文质量同步核查：Bioconjugate Chem 是生物偶联化学专业期刊，主题与 linker 高度直接；有 PMID 和 PMCID，便于核验。但该文为 2025 年新近平台论文，期刊影响力、引用积累和外部验证尚不足以支撑 A 级。
+- 权威性判断：如果研究问题是“dual-payload linker 如何从固定 2 payload 走向 programmable payload combinations”，SPARC 是必须跟踪的核心路线；但按权威等级应列 B+，不是 A。
+- 证据限制：高 DAR 与多 payload 的可生产性、批间一致性、体内安全性和监管可接受性仍需继续验证。
+- 可验证途径：PubMed 检索 PMID 40958380；ACS 页面或 DOI resolver 检索 10.1021/acs.bioconjchem.5c00239。
+
+### Bernardes 团队
+
+- 类型：学术团队
+- 机构/公司：University of Cambridge
+- 国家：英国
+- 权威等级：综述/框架权威-A
+- 核心成员：Gonçalo J. L. Bernardes；Toby Journeaux
+- 主要研究方向：homogeneous multi-payload ADC 生成方法；branched linker、非天然氨基酸、多位点修饰、多功能化抗体。
+- 发散研究方向：四功能化抗体、payload-ratio control、反应正交性、产品均一性、可开发性评价框架。
+- 代表论文：
+  - [Homogeneous multi-payload antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/38760431/)；Nat Chem，2024。综述并比较 homogeneous multi-payload ADC 生成方法，覆盖 branched linker installation、unnatural amino acids、single-site 与 multi-site multi-payload ADC 架构，是理解 dual-payload linker 版图的高质量入口。
+  - [Site-Specific Quadruple-Functionalised Antibodies](https://pubmed.ncbi.nlm.nih.gov/39423140/)；Angew Chem Int Ed Engl，2025。展示四功能化抗体平台，对多 payload 或多功能模块位点特异性安装有方法学意义。
+- 证据类型：顶级综述/观点 + 多功能化抗体原创方法。
+- 论文质量同步核查：Nat Chem 和 Angew Chem Int Ed Engl 期刊质量高；但 Nat Chem 文章性质偏综述/观点，不是单个 dual-payload linker 药效实验。
+- 权威性判断：适合作为“领域方法学总图”的权威来源，尤其用于比较 branched linker、dual-site conjugation、unnatural amino acid 等路线优劣。
+- 证据限制：直接体内药效和临床转化证据少；不能代替具体 linker 平台的实验数据。
+- 可验证途径：PubMed 检索 PMID 38760431、39423140；DOI resolver 检索 10.1038/s41557-024-01507-y、10.1002/anie.202417620。
+
+### Sutro 团队
+
+- 类型：公司团队
+- 机构/公司：Sutro Biopharma
+- 国家：美国
+- 权威等级：综述/框架权威-B+
+- 核心成员：Miao Wen；Hans-Peter Gerber；Gang Yin；Abigail Yu；Young Park；Daniel Calarese
+- 主要研究方向：homogeneous dual-payload ADC 方法、潜力和限制；branched multifunctional linker；disulfide bridging；mTG；platform CMC。
+- 发散研究方向：dual-payload linker 分类、释放速率匹配、payload ratio、homogeneity、aggregation、stable linker-payload。
+- 代表论文：
+  - [Homogeneous antibody-drug conjugates with dual payloads: potential, methods and considerations](https://pubmed.ncbi.nlm.nih.gov/40322862/)；MAbs，2025。该综述直接梳理 homogeneous dual-payload ADC 的 linker 与 conjugation 方法，包含 branched multifunctional linkers、selective deprotection、orthogonal handles、disulfide bridging、mTG、branched linker payloads 等，是 linker 领域的实用综述。
+  - [Methods to Make Homogenous Antibody Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/25511917/)；Pharm Res，2015。早期 homogeneous ADC 方法背景，不是 dual-payload 专文。
+- 证据类型：直接 dual-payload linker 方法综述 + homogeneous ADC 平台背景。
+- 论文质量同步核查：MAbs 为抗体工程专业期刊，综述主题非常直接；Pharm Res 是背景证据。由于核心证据是综述而非原创 dual-payload linker 药效论文，评级不宜与 Nat Chem 框架或 Nat Commun 原创论文同列 A。
+- 权威性判断：适合用来建立 linker 技术谱系和证据边界，尤其能帮助区分哪些是直接 dual-payload linker，哪些只是单 payload ADC linker 经验；审查后定为框架权威 B+。
+- 证据限制：主要是综述，不是原创 dual-payload linker 药效论文；公司平台相关结论需要具体项目论文支撑。
+- 可验证途径：PubMed 检索 PMID 40322862、25511917；DOI resolver 检索 10.1080/19420862.2025.2498162、10.1007/s11095-014-1596-8。
+
+### Seagen ADC 化学团队
+
+- 类型：公司团队
+- 机构/公司：Seattle Genetics / Seagen
+- 国家：美国
+- 权威等级：Linker 方法支撑团队-A
+- 核心成员：Matthew R. Levengood；Peter D. Senter；Kim K. Emmerton；Joshua H. Hunter
+- 主要研究方向：orthogonal cysteine protection；selective deprotection；homogeneous multi-drug ADC；linker-payload 装载基础。
+- 发散研究方向：半胱氨酸保护基、DAR 控制、MMAE/MMAF dual payload、bystander 与非旁观者 payload 组合、抗体均一化。
+- 代表论文：
+  - [Orthogonal Cysteine Protection Enables Homogeneous Multi-Drug Antibody-Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/27966822/)；Angew Chem Int Ed Engl，2017。通过两种正交半胱氨酸保护/脱保护策略，选择性安装不同 linker-payload，是 homogeneous multi-drug ADC 的早期关键方法论文。
+  - [Effects of drug loading on the antitumor activity of a monoclonal antibody drug conjugate](https://pubmed.ncbi.nlm.nih.gov/15501986/)；Clin Cancer Res，2004。不是 dual-payload linker 论文，但对 DAR、药物负载、活性和耐受性关系是经典支撑。
+- 证据类型：multi-drug ADC linker 方法 + DAR 基础证据。
+- 论文质量同步核查：Angew Chem Int Ed Engl 质量高且方法直接；Clin Cancer Res 质量高但相关性属于背景。
+- 权威性判断：Seagen 是 dual-payload linker 早期化学工具的重要来源，尤其是正交保护和选择性装载。
+- 证据限制：2017 论文更偏方法可行性和同类 tubulin payload 组合；不等同于已解决异机制双 payload 的释放速率匹配问题。
+- 可验证途径：PubMed 检索 PMID 27966822、15501986；DOI resolver 检索 10.1002/anie.201608292、10.1158/1078-0432.CCR-04-0789。
+
+### Chudasama 团队
+
+- 类型：学术团队
+- 机构/公司：University College London；论文含 MSD UK 相关合作单位。
+- 国家：英国
+- 权威等级：Linker 方法支撑团队-B+
+- 核心成员：Vijay Chudasama；James R. Baker；Clíona McMahon；Josephine S. Gaynord
+- 主要研究方向：pyridazinedione linker、p-anisidine derivatives、multi-click chemistry、多 payload thio-antibody conjugates。
+- 发散研究方向：disulfide bridging、多 payload 硫代抗体、正交点击反应、连接子稳定性、抗体修饰位点控制。
+- 代表论文：
+  - [Enabling the synthesis of multi-payload thio-antibody conjugates through the use of pyridazinediones, p-anisidine derivatives and various click chemistries](https://pubmed.ncbi.nlm.nih.gov/41726384/)；RSC Chem Biol，2026。直接展示用 pyridazinediones、p-anisidine 衍生物和多种点击化学合成 multi-payload thio-antibody conjugates。
+- 证据类型：multi-payload linker/偶联化学原创方法。
+- 论文质量同步核查：RSC Chem Biol 为同行评议化学生物学期刊；主题与 linker 直接相关，但期刊影响力和药效转化证据低于 A 级原创 ADC 药效论文。
+- 权威性判断：在 linker 化学工具箱层面非常重要，尤其适合关注 disulfide bridging 与多点击组合的人；但单篇 RSC Chem Biol 方法论文不足以评为 A，审查后定为方法支撑 B+。
+- 证据限制：偏化学合成，不一定直接给出完整 dual-payload ADC 体内药效和安全性。
+- 可验证途径：PubMed 检索 PMID 41726384；DOI resolver 检索 10.1039/d6cb00018e。
+
+### Liu/Zhou 团队
+
+- 类型：学术团队
+- 机构/公司：The Ohio State University
+- 国家：美国
+- 权威等级：Linker 核心直接团队-B+
+- 核心成员：Xiaoguang Liu；Zhuoxin Zora Zhou；Lufang Zhou
+- 主要研究方向：CD276/B7-H3 dual-payload ADC；cysteine 与 lysine two-site co-conjugation；化疗 payload + TLR agonist payload。
+- 发散研究方向：DBM linker、Val-Cit-PABC cleavable linker、Phosphine-Azide linker、DAR/DDR 定量、chemo-immunotherapy dual ADC。
+- 代表论文：
+  - [A Dual-Payload Antibody-Drug Conjugate Targeting CD276/B7-H3 Elicits Cytotoxicity and Immune Activation in Triple-Negative Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/39186778/)；Cancer Res，2024。论文建立 CD276 靶向 dual-payload ADC，使用两个 linker 将 MMAF 与 TLR7/8 agonist 共同接到抗体上，目标是同时诱导细胞毒性和免疫激活。
+  - [Advanced CD276-Targeting Dual-Payload Antibody-Drug Conjugates for Cancer Therapy](https://pubmed.ncbi.nlm.nih.gov/42013359/)；Cancer Res Commun，2026。进一步明确 two-site cysteine and lysine co-conjugation，讨论 DBM-Val-Cit-PABC 和 TLR agonist custom linkers，并用多种分析工具验证 DAR 和 DDR。
+- 证据类型：直接 dual-payload ADC two-site linker/conjugation 实验论文。
+- 论文质量同步核查：Cancer Res 来源质量高且主题直接；Cancer Res Commun 是 AACR 旗下同行评议期刊，直接性强但影响力低于 Cancer Res。
+- 权威性判断：在“一个抗体同时递送化疗 payload 和免疫 payload”的 dual linker 方向重要，尤其是 DAR/DDR 分析值得关注；Cancer Res 来源质量较好且有连续论文，审查后可列 B+，但核心贡献仍偏生物学，不评 A。
+- 证据限制：核心贡献更偏 chemo-immunotherapy 生物学，不是纯 linker 化学创新；临床转化仍未验证。
+- 可验证途径：PubMed 检索 PMID 39186778、42013359；DOI resolver 检索 10.1158/0008-5472.CAN-23-4099、10.1158/2767-9764.CRC-26-0059。
+
+### Rader/Roush 团队
+
+- 类型：学术团队
+- 机构/公司：The Scripps Research Institute
+- 国家：美国
+- 权威等级：Linker 核心直接团队-B
+- 核心成员：Christoph Rader；William R. Roush；Napon Nilchan；Xiuling Li
+- 主要研究方向：engineered selenocysteine/cysteine site-specific conjugation；dual-mechanistic ADC；顺序偶联两种 payload。
+- 发散研究方向：thio-selenomab、PNU-159682、MMAF、iodoacetamide linker、methylsulfone phenyloxadiazole linker、稳定性与疏水性控制。
+- 代表论文：
+  - [Dual-mechanistic antibody-drug conjugate via site-specific selenocysteine/cysteine conjugation](https://pubmed.ncbi.nlm.nih.gov/31930187/)；Antibody Therapeutics，2019。该文使用工程化 selenocysteine 和 cysteine 两个位点，将 PNU-159682 和 MMAF 分别接到 HER2 靶向抗体上，展示 dual-drug ADC 可同时产生 DNA damage 和 tubulin inhibition 两种机制。
+- 证据类型：直接 dual-drug ADC 双位点 linker/conjugation 方法。
+- 论文质量同步核查：Antibody Therapeutics 是同行评议抗体领域期刊，主题直接；但期刊影响力和体内证据强度低于 Nat Commun、Cancer Res 等。
+- 权威性判断：是 dual-payload linker 早期重要路线，尤其适合作为 Sec/Cys 双位点正交偶联案例。
+- 证据限制：主要是体外验证；作者也提示 PNU 主导细胞毒，payload 协同并不明确。
+- 可验证途径：PubMed 检索 PMID 31930187；DOI resolver 检索 10.1093/abt/tbz009。
+
+### Mckertish/Kayser 团队
+
+- 类型：学术团队
+- 机构/公司：公开 PubMed/PMC 记录中机构信息需进一步核验。
+- 国家：暂无法完全核验
+- 权威等级：Linker 核心直接团队-B
+- 核心成员：Candice Maria Mckertish；Veysel Kayser
+- 主要研究方向：HER2 dual-payload ADC；两个不同 linker-payload 分别偶联到抗体不同位点；VcMMAE 与 SMCC-DM1 组合。
+- 发散研究方向：Val-Cit cleavable linker、SMCC non-cleavable linker、cysteine/lysine 双位点偶联、HER2 乳腺癌和结肠癌模型。
+- 代表论文：
+  - [A Novel Dual-Payload ADC for the Treatment of HER2+ Breast and Colon Cancer](https://pubmed.ncbi.nlm.nih.gov/37631234/)；Pharmaceutics，2023。该文明确使用两个不同 linker-payload 复合物，即 MC-Val-Cit-PAB-MMAE 和 SMCC-DM1，接到抗体不同位点，并报告 VcMMAE/SMCC-DM1 ratio 约 2.83:5.25。
+- 证据类型：直接 dual-payload linker-payload ADC 实验论文。
+- 论文质量同步核查：Pharmaceutics 为同行评议期刊，主题直接；但影响力和团队连续证据低于 A 级。
+- 权威性判断：可作为“cleavable + non-cleavable linker-payload 共存”的具体案例。
+- 证据限制：体内和临床证据不足；两个 payload 都偏微管抑制机制，异机制组合启发有限。
+- 可验证途径：PubMed 检索 PMID 37631234；DOI resolver 检索 10.3390/pharmaceutics15082020。
+
+### Feng Tang 相关团队
+
+- 类型：学术团队
+- 机构/公司：公开 PubMed/PMC 记录中机构信息需进一步核验。
+- 国家：暂无法完全核验
+- 权威等级：Linker 核心直接团队-B
+- 核心成员：Feng Tang；Yang Yang；Yubo Tang；Bingyang Sun 等
+- 主要研究方向：IgG N-glycosylation remodeling；glycosite-specific dual-payload ADC；非天然 sialylglycopeptide。
+- 发散研究方向：糖基位点修饰、Fc glycan linker entry、site-specific ADC、dual-payload glycoengineering。
+- 代表论文：
+  - [One-pot N-glycosylation remodeling of IgG with non-natural sialylglycopeptides enables glycosite-specific and dual-payload antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/27714198/)；Org Biomol Chem，2016。该文提供通过 IgG N-糖基化重塑构建 glycosite-specific dual-payload ADC 的方法，是早期 dual-payload linker/偶联入口之一。
+- 证据类型：直接 dual-payload glycosite-specific conjugation 方法论文。
+- 论文质量同步核查：Org Biomol Chem 为同行评议有机/生物分子化学期刊；主题直接，但影响力和体内验证有限。
+- 权威性判断：在“糖基位点作为 dual-payload linker 接入点”方向值得保留。
+- 证据限制：偏方法学，药效、PK、CMC 与临床可开发性证据不足。
+- 可验证途径：PubMed 检索 PMID 27714198；DOI resolver 检索 10.1039/c6ob01751g。
+
+## 4. 产业跟踪对象
+
+以下公司与 dual-payload ADC linker-payload 方向相关，但公开证据以公司网页、会议议程或行业活动为主，不能与上述同行评议论文等同。
+
+| 公司 | 国家 | 相关方向 | 可用证据 | 证据限制 |
+|---|---|---|---|---|
+| Glykos | 芬兰 | hydrophilic linker-payload；auristatin、exatecan、dual-payload ADC | 公司技术页称其 dual-payload ADC 平台通过 proprietary linker-payload 和 conjugation platform 连接不同 payload，并强调 controlled release 与 balanced PK；World ADC 议程显示其报告 dual payload ADC linker 技术 | 公司网页和会议资料，不是同行评议论文；只能作为产业线索 |
+| Araris Biotech | 瑞士 | AraLinQ site-specific linker-payload；multi/dual payload ADC | Sutro 综述提到 Araris 使用 branched linker payload 制备 DAR4 dual-payload ADC；会议议程提到一锅法 native antibody multi-payload ADC | 公开同行评议 dual-payload linker 论文不足；需核查专利、会议摘要或后续论文 |
+| CatenaBio | 美国 | CysTyr 平台；site-selective conjugation；dual payload asset | World ADC/PEGS 等会议议程显示其报告 dual payload ADC 设计参数与 CysTyr 制造纯度 | 会议宣传证据，不能作为论文质量证据 |
+| Glykos/Orion 合作 | 芬兰/芬兰 | next-generation ADC linker-payload 合作 | Glykos 新闻稿称 Orion 扩展研究合作和许可协议 | 合作新闻不能证明 dual-payload linker 疗效 |
+
+## 5. 科研关系说明
+
+本报告只写公开科研方向关系，不推断私人合作、导师学生或未披露产业合作。
+
+- branched linker 主线：Tsuchikama/Yamazaki 的 bifunctional branched linker 是直接 dual-payload ADC 实验核心；Seagen 的正交半胱氨酸保护和 Sutro/Bernardes 综述构成方法学背景；SPARC 把 branched/multipayload linker-payload 推向 programmable payload combinations。
+- dual-site conjugation 主线：Ajinomoto 用 AJICAP lysine conjugation + interchain-break conjugation；Kanghong 用 cysteine + glycosite；Liu/Zhou 用 cysteine + lysine；Rader/Roush 用 Sec + Cys。它们都在解决“两个 payload 是否必须接到不同可控位点”这个问题。
+- release design 主线：Tsuchikama/Yamazaki 使用 GluValCit-PABC lysosomal cleavable linker；Kanghong 强调 two linkers with distinct-time cleavage；SPARC 强调 steric shielding 降低 off-target payload release 并同步 payload PK。
+- quality/CQA 主线：dual-payload linker 不只看能否合成，还要看 DAR、DDR、payload ratio、aggregation、plasma stability、free payload release 和 multi-analyte bioanalysis。Kanghong 质量分析综述、Liu/Zhou 的 DAR/DDR 定量和 SPARC 的 high-DAR stability 是重点证据。
+
+## 6. 核验入口
+
+- PubMed：https://pubmed.ncbi.nlm.nih.gov/
+- DOI resolver：https://doi.org/
+- Nature Communications dual-payload branched linker 论文：https://www.nature.com/articles/s41467-021-23793-7
+- ACS dual-payload AJICAP 论文：https://pubs.acs.org/doi/10.1021/acsmedchemlett.5c00209
+- SPARC 论文 PubMed：https://pubmed.ncbi.nlm.nih.gov/40958380/
+- SPARC 论文 PMC：https://pmc.ncbi.nlm.nih.gov/articles/PMC12532090/
+- ACS SPARC DOI：https://doi.org/10.1021/acs.bioconjchem.5c00239
+- Kanghong dual-payload linker/release 论文 PubMed：https://pubmed.ncbi.nlm.nih.gov/41121984/
+- Kanghong dual-payload linker/release 论文 PMC：https://pmc.ncbi.nlm.nih.gov/articles/PMC13044526/
+- Sutro homogeneous dual-payload ADC 综述：https://pmc.ncbi.nlm.nih.gov/articles/PMC12054377/
+
+## 7. 评级矩阵
+
+该矩阵用于说明“可纳入报告”不等于“可评为 A 级权威”。团队详解仍是本报告主体。
+
+| 团队/公司 | 相关性 | 来源质量 | 影响力/成熟度 | 评级 | 结论 |
+|---|---|---|---|---|---|
+| Tsuchikama/Yamazaki 团队 | 高：直接 branched linker dual-payload ADC | 高：Nat Commun 原创论文，另有 Nat Rev Clin Oncol 综述背景 | 中高：实验完整，已成为 dual-payload ADC 代表性文献 | Linker 核心直接团队-A | A 级成立。 |
+| Bernardes 团队 | 中高：重点是 homogeneous multi-payload ADC linker 方法框架 | 高：Nat Chem + Angew Chem Int Ed Engl | 中：框架权威强，但不是具体 linker 药效平台 | 综述/框架权威-A | A 级仅限“框架权威”，不能写成原创平台 A。 |
+| Seagen ADC 化学团队 | 中高：multi-drug ADC 正交装载方法 | 高：Angew Chem Int Ed + Clin Cancer Res 背景 | 高：ADC linker/DAR 经典基础强 | Linker 方法支撑团队-A | A 级作为方法支撑成立，不是 dual-payload linker 专属 A。 |
+| Ajinomoto AJICAP 团队 | 高：直接 homogeneous dual-payload ADC conjugation | 中：ACS Med Chem Lett 单篇短文 | 中低：新近/单篇，外部验证不足 | Linker 核心直接团队-B+ | 应纳入，但不宜评 A。 |
+| Kanghong 双 payload linker 平台团队 | 高：双 linker、双位点、错峰释放非常直接 | 中：Mol Cancer Ther + Pharmaceuticals 综述 | 中低：2026 新近论文，缺独立验证和临床证据 | Linker 核心直接团队-B+ | 应纳入，但不宜评 A。 |
+| HuaO/Multitude SPARC 团队 | 高：programmable multipayload linker-payload 架构 | 中：Bioconjugate Chem | 中低：平台很新，高 DAR/多 payload 可开发性待验证 | Linker 核心直接团队-B+ | 应纳入，暂不评 A。 |
+| Sutro 团队 | 中高：dual-payload linker 方法综述直接 | 中：MAbs 综述 | 中：框架有价值但非原创药效论文 | 综述/框架权威-B+ | 可作为综述入口，不宜评 A。 |
+| Chudasama 团队 | 中高：multi-payload thio-antibody linker 化学 | 中：RSC Chem Biol | 中低：偏化学方法，药效/转化弱 | Linker 方法支撑团队-B+ | 方法重要，但不评 A。 |
+| Liu/Zhou 团队 | 中高：two-site co-conjugation 和 DAR/DDR 直接 | 中高：Cancer Res + Cancer Res Commun | 中：连续论文，但核心贡献偏生物学 | Linker 核心直接团队-B+ | 可升至 B+，但不是 linker 化学 A。 |
+| Rader/Roush 团队 | 中：Sec/Cys 双位点偶联直接但早期 | 中低：Antibody Therapeutics | 低中：体外为主，协同不明确 | Linker 核心直接团队-B | 保留为早期案例。 |
+| Mckertish/Kayser 团队 | 中：cleavable + non-cleavable linker-payload 案例 | 中低：Pharmaceutics | 低中：单篇、团队连续性弱 | Linker 核心直接团队-B | 保留为案例，不作权威。 |
+| Feng Tang 相关团队 | 中：glycosite-specific dual-payload ADC | 中：Org Biomol Chem | 低中：早期方法，药效/CMC 弱 | Linker 核心直接团队-B | 保留为方法入口。 |
+
+
