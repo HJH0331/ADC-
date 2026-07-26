@@ -266,19 +266,25 @@ h2 {
 
 .quick {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
   gap: 12px;
   margin: 0 0 18px;
 }
 
+.section-nav {
+  align-items: stretch;
+}
+
 .quick a {
   display: block;
-  min-height: 52px;
+  min-height: 58px;
   padding: 14px 16px;
   border: 1px solid var(--line);
   border-radius: 16px;
   background: rgba(255, 255, 255, .06);
   color: #e3f3ff;
+  font-weight: 800;
+  line-height: 1.35;
 }
 
 .hero,
@@ -293,6 +299,20 @@ h2 {
 .section {
   margin-top: 20px;
   padding: 26px;
+}
+
+.markdown-page {
+  margin-top: 20px;
+}
+
+.markdown-page > p {
+  margin: 0 0 18px;
+  padding: 18px 20px;
+  border: 1px dashed var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, .06);
+  color: var(--soft);
+  font-size: 18px;
 }
 
 .detail-grid {
@@ -334,11 +354,11 @@ h2 {
 }
 
 .markdown-section {
-  padding: 22px;
+  padding: 26px;
   border: 1px solid var(--line);
-  border-radius: 18px;
+  border-radius: 24px;
   background: rgba(255, 255, 255, .055);
-  box-shadow: none;
+  box-shadow: var(--shadow);
 }
 
 .markdown-section + .markdown-section {
@@ -459,6 +479,25 @@ hr {
   border-radius: 18px;
   background: rgba(255, 255, 255, .06);
   color: var(--soft);
+}
+
+.detail-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.detail-actions a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, .07);
+  color: #e8f6ff;
+  font-weight: 800;
 }
 
 .related {

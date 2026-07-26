@@ -283,27 +283,26 @@ function markdownToHtml(markdown) {
   return { html: out.join("\n"), toc };
 }
 
-function renderCardList(items) {
-  return `<ul>${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>`;
-}
-
 function renderRelated(current) {
   return documents
     .map((doc) => `<a class="mini-link${doc.output === current.output ? " active" : ""}" href="./${doc.output}">${doc.tag}. ${escapeHtml(doc.shortTitle)}</a>`)
     .join("");
 }
 
-function renderToc(toc) {
+function renderSectionNav(toc) {
   const links = toc
-    .filter((item) => item.level >= 2)
-    .slice(0, 40)
-    .map((item) => `<a class="toc-level-${item.level}" href="#${item.id}">${escapeHtml(item.text)}</a>`)
+    .filter((item) => item.level === 2)
+    .map((item) => `<a href="#${item.id}">${escapeHtml(item.text)}</a>`)
     .join("\n");
-  return `<aside class="mini-toc"><strong>正文目录</strong>${links}</aside>`;
+  return links || `<a href="#content">正文内容</a>`;
+}
+
+function stripFirstHeading(markdown) {
+  return markdown.replace(/^\s*#\s+.+(?:\r?\n)+/, "");
 }
 
 function renderDetail(doc, index) {
-  const source = fs.readFileSync(path.join(root, doc.source), "utf8");
+  const source = stripFirstHeading(fs.readFileSync(path.join(root, doc.source), "utf8"));
   const { html, toc } = markdownToHtml(source);
   return `<!doctype html>
 <html lang="zh-CN">
@@ -316,16 +315,8 @@ function renderDetail(doc, index) {
 </head>
 <body>
   <main class="page">
-    <div class="topbar">
-      <div style="display:flex; gap:14px; flex-wrap:wrap;"><a href="./index.html">← 返回资料库平台</a><a href="https://github.com/HJH0331/ADC-" target="_blank" rel="noopener">GitHub 仓库 →</a></div>
-      <span>详细资料 ${index + 1} / ${documents.length}</span>
-    </div>
-    <div class="quick">
-      <a href="#position">资料定位</a>
-      <a href="#outputs">核心产出</a>
-      <a href="#content">报告正文</a>
-      <a href="#boundary">使用边界</a>
-      <a href="#related">相关资料</a>
+    <div class="quick section-nav" aria-label="Markdown 章节目录">
+      ${renderSectionNav(toc)}
     </div>
     <section class="hero">
       <span class="eyebrow">${escapeHtml(doc.category)}｜${escapeHtml(doc.tag)}</span>
@@ -334,41 +325,20 @@ function renderDetail(doc, index) {
       <div class="tag-row">
         <span class="meta-pill">标准调研日期：${researchDate}</span>
         <span class="meta-pill">${escapeHtml(doc.category)}</span>
+        <span class="meta-pill">详细资料 ${index + 1} / ${documents.length}</span>
         <span class="meta-pill">Markdown 原文：${escapeHtml(doc.source)}</span>
       </div>
       <div class="note" style="margin-top:18px;">本页用于资料库分享和阅读。原始 Markdown 已保留在仓库 content 目录，网页内容由脚本生成。</div>
-    </section>
-    <section class="section" id="position">
-      <h2>一、这份资料用于解决什么问题</h2>
-      <div class="grid-2">
-        <div class="card"><h3>资料定位</h3><p>${escapeHtml(doc.purpose)}</p></div>
-        <div class="card"><h3>适合使用场景</h3>${renderCardList(doc.useCases)}</div>
+      <div class="detail-actions">
+        <a href="./index.html">返回资料库平台</a>
+        <a href="https://github.com/HJH0331/ADC-" target="_blank" rel="noopener">GitHub 仓库</a>
       </div>
     </section>
-    <section class="section" id="outputs">
-      <h2>二、核心产出</h2>
-      <div class="grid-2">
-        ${doc.outcomes.map((item) => `<div class="card"><h3>${escapeHtml(item)}</h3><p>对应内容已在正文中展开，可用于团队筛选、证据审查、方向对比或文献质量核查。</p></div>`).join("\n")}
-      </div>
+    <section class="markdown-page" id="content">
+      ${html}
     </section>
-    <section class="section" id="content">
-      <h2>三、报告正文</h2>
-      <div class="detail-grid">
-        <div>${html}</div>
-        ${renderToc(toc)}
-      </div>
-    </section>
-    <section class="section" id="boundary">
-      <h2>四、使用边界</h2>
-      <div class="quote">资料库用于调研、汇报和决策支持，不替代专利自由实施分析、临床医学判断、监管判断或企业内部未公开数据。</div>
-      <ul>
-        <li>团队权威等级是基于公开证据的工作性分级，不是正式排名。</li>
-        <li>公司官网、新闻稿和会议摘要只能证明公开主张或管线存在，不能单独证明疗效或平台优越性。</li>
-        <li>涉及最新管线、并购、临床试验状态时，需要按日期复核官方来源。</li>
-      </ul>
-    </section>
-    <section class="section" id="related">
-      <h2>五、相关资料导航</h2>
+    <section class="section compact-section" id="related">
+      <h2>相关资料导航</h2>
       <div class="related">${renderRelated(doc)}</div>
     </section>
   </main>
