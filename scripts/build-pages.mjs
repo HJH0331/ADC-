@@ -3,7 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const researchDate = "2026-07-26";
+const researchDate = "2026-07-27";
 
 const documents = [
   {
@@ -323,7 +323,7 @@ function renderDetail(doc, index) {
       <h1>${escapeHtml(doc.title)}</h1>
       <p class="lead">${escapeHtml(doc.lead)}</p>
       <div class="tag-row">
-        <span class="meta-pill">标准调研日期：${researchDate}</span>
+        <span class="meta-pill">上传调研日期：${researchDate}</span>
         <span class="meta-pill">${escapeHtml(doc.category)}</span>
         <span class="meta-pill">详细资料 ${index + 1} / ${documents.length}</span>
         <span class="meta-pill">Markdown 原文：${escapeHtml(doc.source)}</span>
@@ -352,7 +352,7 @@ function renderIndex() {
   <span class="tag">${doc.tag}</span>
   <h3>${escapeHtml(doc.shortTitle)}</h3>
   <p>${escapeHtml(doc.lead)}</p>
-  <div class="pillrow"><span class="meta-pill">${escapeHtml(doc.category)}</span><span class="meta-pill">调研日期 ${researchDate}</span></div>
+  <div class="pillrow"><span class="meta-pill">${escapeHtml(doc.category)}</span><span class="meta-pill">上传调研日期 ${researchDate}</span></div>
   <p style="margin-top:14px;"><a class="btn" href="./${doc.output}">查看详情</a></p>
 </article>`).join("\n");
 
@@ -373,7 +373,7 @@ function renderIndex() {
     </div>
   </nav>
   <header class="wrap">
-    <span class="eyebrow">ADC research library｜标准调研日期：${researchDate}</span>
+    <span class="eyebrow">ADC research library｜上传调研日期：${researchDate}</span>
     <h1>ADC 调研资料库平台</h1>
     <p class="lead">把双 payload ADC、ADC linker、双 payload linker、重点团队详情和 CNS 论文证据整理成可分享、可核验、可持续更新的 GitHub Pages 资料库。</p>
     <div class="hero-grid">
@@ -391,7 +391,7 @@ function renderIndex() {
           <li>3 份初始领域团队调研</li>
           <li>1 份重点团队详细档案</li>
           <li>2 份 CNS/子刊论文证据清单</li>
-          <li>每页统一标注标准调研日期</li>
+          <li>每页统一标注上传调研日期</li>
         </ul>
       </div>
     </div>
@@ -418,7 +418,7 @@ function renderIndex() {
       </div>
     </section>
   </main>
-  <footer class="wrap">Generated from Markdown reports for GitHub Pages. 标准调研日期：${researchDate}</footer>
+  <footer class="wrap">Generated from Markdown reports for GitHub Pages. 上传调研日期：${researchDate}</footer>
   <script>
     document.querySelectorAll('.task').forEach(card => {
       const link = card.querySelector('a.btn');
