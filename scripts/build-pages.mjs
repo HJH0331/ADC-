@@ -83,45 +83,6 @@ const documents = [
     purpose: "用于补充 ADC linker、双 payload ADC 和团队调研中的论文质量判断，区分原始研究、综述、新闻分析、临床研究和间接背景材料。",
     outcomes: ["ADC CNS/子刊论文清单", "Nature/Cell/Science 期刊族来源", "JIF 与机构信息", "研究方向标注"],
     useCases: ["论文质量核查", "查找 ADC 高影响综述和原始研究", "补强团队/公司权威等级判断"]
-  },
-  {
-    key: "UA",
-    source: "content/uploaded/01_双payload_ADC顶尖团队公司研究方向与科研关系报告.md",
-    output: "detail-upload-01-dual-payload-adc-teams.html",
-    title: "双 payload ADC 顶尖团队/公司研究方向与科研关系报告（上传版）",
-    shortTitle: "双 payload ADC 上传版",
-    category: "新增上传版本",
-    tag: "上传 A",
-    lead: "保留 2026-07-27 上传稿的独立页面，用于与原版双 payload ADC 报告并列查看。",
-    purpose: "用于把新上传稿作为独立版本保留，不覆盖原版 01 报告。",
-    outcomes: ["上传版原文", "原版并列阅读", "上传日期标注", "版本对照"],
-    useCases: ["查阅新增上传稿", "与原版 01 对照", "保留版本历史"]
-  },
-  {
-    key: "UB",
-    source: "content/uploaded/02_ADC_linker顶尖团队公司研究方向与科研关系报告.md",
-    output: "detail-upload-02-adc-linker-teams.html",
-    title: "ADC linker 顶尖团队/公司研究方向与科研关系报告（上传版）",
-    shortTitle: "ADC linker 上传版",
-    category: "新增上传版本",
-    tag: "上传 B",
-    lead: "保留 2026-07-27 上传稿的独立页面，用于与原版 ADC linker 报告并列查看。",
-    purpose: "用于把新上传稿作为独立版本保留，不覆盖原版 02 报告。",
-    outcomes: ["上传版原文", "原版并列阅读", "上传日期标注", "版本对照"],
-    useCases: ["查阅新增上传稿", "与原版 02 对照", "保留版本历史"]
-  },
-  {
-    key: "UC",
-    source: "content/uploaded/03_ADC_双payload_linker顶尖团队公司研究方向与科研关系报告.md",
-    output: "detail-upload-03-dual-payload-adc-linker-teams.html",
-    title: "ADC 双 payload linker 顶尖团队/公司研究方向与科研关系报告（上传版）",
-    shortTitle: "双 payload linker 上传版",
-    category: "新增上传版本",
-    tag: "上传 C",
-    lead: "保留 2026-07-27 上传稿的独立页面，用于与原版双 payload linker 报告并列查看。",
-    purpose: "用于把新上传稿作为独立版本保留，不覆盖原版 03 报告。",
-    outcomes: ["上传版原文", "原版并列阅读", "上传日期标注", "版本对照"],
-    useCases: ["查阅新增上传稿", "与原版 03 对照", "保留版本历史"]
   }
 ];
 
@@ -414,21 +375,20 @@ function renderIndex() {
   <header class="wrap">
     <span class="eyebrow">ADC research library｜上传调研日期：${researchDate}</span>
     <h1>ADC 调研资料库平台</h1>
-    <p class="lead">把双 payload ADC、ADC linker、双 payload linker、重点团队详情和 CNS 论文证据整理成可分享、可核验、可持续更新的 GitHub Pages 资料库，同时保留原版和上传版。</p>
+    <p class="lead">把双 payload ADC、ADC linker、双 payload linker、重点团队详情和 CNS 论文证据整理成可分享、可核验、可持续更新的 GitHub Pages 资料库。</p>
     <div class="hero-grid">
       <div class="card">
         <h3>平台目标</h3>
         <ul>
           <li>按领域分类沉淀团队、公司、论文和证据质量。</li>
-          <li>区分原版调研、上传版和高质量论文证据库。</li>
+          <li>区分初始调研、团队详情和高质量论文证据库。</li>
           <li>让每个详情页都能单独发给导师、同事或合作方阅读。</li>
         </ul>
       </div>
       <div class="card">
         <h3>当前资料范围</h3>
         <ul>
-          <li>3 份原始领域团队调研</li>
-          <li>3 份新增上传版本</li>
+          <li>3 份初始领域团队调研</li>
           <li>1 份重点团队详细档案</li>
           <li>2 份 CNS/子刊论文证据清单</li>
           <li>每页统一标注上传调研日期</li>
