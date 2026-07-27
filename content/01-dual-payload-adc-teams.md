@@ -1,424 +1,260 @@
-﻿# 双payload ADC顶尖团队/公司研究方向与科研关系报告
-
-生成日期：2026-07-26  
-调研对象：双payload ADC（dual-payload / dual-drug / multi-payload antibody-drug conjugate）  
-硬性口径：论文质量评价只能使用Cell、Nature、Science及其子刊；非CNS论文、会议摘要、公司新闻稿、专利和临床注册信息只用于事实核验，不作为论文质量评价因子。
-
-## 1. 权威等级标准
-
-### 前提核验
-
-已确认事实：
-
-1. 双payload ADC指同一抗体或抗体构型上递送两个不同payload。它不同于“双靶点ADC / bispecific ADC”。双靶点但单payload的项目不纳入双payload ADC核心证据。
-2. 未检索到公开、权威、统一的“双payload ADC全球前20%团队/公司”官方排名。因此，本报告不能声称存在严格统计意义的官方前20%名单。
-3. 在严格CNS论文口径下，双payload ADC方向的直接原始研究论文很少。当前最直接、相关性最高的CNS子刊原始研究是UTHealth Houston / MD Anderson相关团队2021年发表于Nature Communications的dual-payload ADC论文。
-
-合理推测：
-
-双payload ADC仍处于早期临床转化阶段。未来竞争重点不会只是“能否装两个payload”，而是payload组合是否机制互补、linker是否稳定、DAR与两种payload比例是否可控、CMC是否可放大，以及是否能在抗原异质性或payload耐药人群中显示临床差异化。
-
-个人判断：
-
-按CNS论文质量和主题相关性严格排序，真正可称为“顶尖科研团队”的对象很少。产业上活跃的公司可以作为“重点跟踪公司”写入，但不能因为有临床管线、会议摘要、融资并购或专利就上调为CNS论文意义上的顶尖科研团队。
-
-暂时无法验证的信息：
-
-无法确认所有公司内部真实研发负责人、未公开payload结构、未公开专利实施范围、导师-学生关系、前同事关系或私人合作关系。因此，本报告只记录论文共同作者、专利发明人、公司公开披露的许可/收购/合作关系。
-
-### CNS论文质量评价维度
-
-| 维度 | 评价方式 |
-|---|---|
-| 来源 | 只采用Cell、Nature、Science及其子刊 |
-| JIF | 使用期刊官网公开Journal Metrics |
-| 期刊影响力 | Nature Communications、Nature Chemistry、Nature Reviews Clinical Oncology等 |
-| 引用次数 | 优先使用Nature文章页面显示的引用数 |
-| 权威综述引用 | 优先看是否被Nature Chemistry、Nature Reviews Clinical Oncology、Nature Reviews Drug Discovery等Nature系综述/新闻/分析引用或讨论 |
-| 后续验证 | 只作为辅助判断；若验证来源非CNS，不纳入论文质量评分 |
-| 临床/产业推动 | 只作为辅助事实，不作为论文质量因子 |
-| 相关性 | 直接dual-drug / dual-payload ADC原始研究最高；multi-payload综述次之；泛蛋白多重偶联或诊疗一体化方法学降权 |
-
-### JIF核验
-
-- Nature Communications：JIF 18.1，来源：[Nature Communications Journal Metrics](https://www.nature.com/ncomms/journal-impact)
-- Nature Chemistry：JIF 24.5，来源：[Nature Chemistry Journal Metrics](https://www.nature.com/nchem/journal-impact)
-- Nature Reviews Clinical Oncology：JIF 94.6，来源：[Nature Reviews Clinical Oncology Journal Metrics](https://www.nature.com/nrclinonc/journal-impact)
-
-### 权威等级定义
-
-| 等级 | 定义 | 本报告适用对象 |
-|---|---|---|
-| A+ | 有直接dual-payload ADC CNS子刊原始研究；论文相关性、技术完整性、引用/综述承认度和转化线索均强 | UTHealth Houston / MD Anderson相关团队 |
-| A- | 有高质量CNS子刊综述，直接讨论multi/dual-payload ADC，但不是原始候选药物研究 | University of Cambridge / Bernardes团队 |
-| B+ | 有CNS子刊方法学原始论文，可支撑multi-payload或多功能抗体偶联平台，但与“双payload ADC药物疗效”不是完全直接 | Peking University / Tao Liu团队 |
-| B | 与A+源头团队、专利或产业转化关系强，但公司候选物暂无CNS直接论文 | CrossBridge Bio / Eli Lilly |
-| B- | 产业进展明确，但暂无CNS系列论文作为论文质量证据 | Callio、Lonza/Synaffix、Kanghong |
-
-## 2. 总体筛选结果
-
-| 层级 | 团队/公司 | 类型 | 国家/地区 | 权威等级 | CNS论文质量结论 |
-|---|---|---|---|---|---|
-| 核心顶尖团队 | UTHealth Houston / MD Anderson / Tsuchikama-Anami-Yamazaki-Zhang-An团队 | 学术团队 + 转化源头 | 美国 | A+ | 有直接dual-payload ADC Nature Communications原始论文 |
-| 方法学/综述权威 | University of Cambridge / Goncalo J. L. Bernardes团队 | 学术团队 | 英国/葡萄牙 | A- | 有Nature Chemistry高质量综述，但不是原始候选药物研究 |
-| 方法学相关团队 | Peking University / Tao Liu团队 | 学术团队 | 中国 | B+ | 有Nature Communications蛋白多重偶联方法学论文，相关性间接 |
-| 产业重点跟踪 | CrossBridge Bio / Eli Lilly | 公司 | 美国 | B | 与A+源头团队和专利技术强相关，但公司候选物暂无CNS直接论文 |
-| 产业重点跟踪 | Callio Therapeutics | 公司 | 美国/新加坡 | B- | 临床推进明确，但暂无CNS直接论文 |
-| 产业重点跟踪 | Lonza / Synaffix | 平台公司/CDMO | 瑞士/荷兰 | B- | 授权和平台活跃，但暂无dual-payload ADC CNS直接论文 |
-| 产业重点跟踪 | Chengdu Kanghong Pharmaceutical | 公司 | 中国 | B- | KH815临床/会议线索明确，但暂无CNS直接论文 |
-
-总体结论：
-
-严格按CNS系列及子刊论文质量评价，双payload ADC领域的“顶尖团队”名单很短。当前最稳健的核心团队是UTHealth Houston / MD Anderson / Tsuchikama-Anami-Yamazaki-Zhang-An团队，因为它拥有直接Nature Communications原始研究，且论文主题、实验体系、体内验证和转化线索都与dual-payload ADC高度相关。
-
-Bernardes团队是方法学和综述权威，适合作为multi-payload ADC领域框架和技术路线的高质量参考，但其代表论文不是候选药物原始研究。Peking University / Tao Liu团队提供CNS子刊方法学支撑，代表“蛋白/抗体多功能偶联技术”的潜在路线，但与完整双药物payload ADC疗效的直接相关性较低。
-
-CrossBridge Bio、Callio、Lonza/Synaffix和Kanghong具有产业跟踪价值，但在本报告硬性口径下，它们没有足够CNS直接论文支撑，不能作为论文质量意义上的顶尖科研团队。对这些公司应采用“产业事实跟踪”而不是“论文质量排名”。
-
-## 3. 团队/公司详细信息
-
-### UTHealth Houston / MD Anderson / Tsuchikama-Anami-Yamazaki-Zhang-An团队
-
-- 类型：学术团队 + 转化技术源头  
-- 机构/学校：Texas Therapeutics Institute, The University of Texas Health Science Center at Houston；MD Anderson Cancer Center  
-- 国家：美国  
-- 权威等级：A+
-
-- 核心成员：
-
-Kyoji Tsuchikama、Yasuaki Anami、Chisato M. Yamazaki、Aiko Yamaguchi、Ningyan Zhang、Zhiqiang An、Naoto T. Ueno等。作者、机构和通讯作者信息可由Nature Communications论文页面核验。来源：[Nature Communications](https://www.nature.com/articles/s41467-021-23793-7)
-
-- 研究成果：
-
-该团队构建了均一化HER2 dual-payload ADC，利用MTGase介导Q295位点偶联和正交点击化学，在同一抗体上安装MMAE与MMAF，并实现DAR 2+2、4+2、2+4等可控构型。论文在HER2异质性和T-DM1耐药乳腺癌模型中显示，dual-drug ADC优于两个单payload ADC共给药。相关原始研究发表于Nature Communications，JIF 18.1。来源：[Nature Communications](https://www.nature.com/articles/s41467-021-23793-7)
-
-该团队还在Nature Reviews Clinical Oncology发表下一代ADC综述，将dual-drug ADC作为下一代ADC格式之一，与bispecific ADC、probody-drug conjugate、immune-stimulating ADC和degrader ADC并列讨论。该综述属于领域权威判断证据，但不是原始实验成果。来源：[PubMed](https://pubmed.ncbi.nlm.nih.gov/38191923/)
-
-- 主要研究方向：
-
-均一化dual-drug ADC、branched linker、MTGase介导位点特异性偶联、HER2 ADC、TROP2 ADC、肿瘤异质性、ADC耐药、payload比例调控。
-
-- 发散研究方向：
-
-双payload与双靶点ADC融合、Topo1 inhibitor + ATR inhibitor组合、低抗原表达肿瘤、抗体工程提升肿瘤渗透和内吞、linker稳定性优化。
-
-- 代表论文：
-
-1. **Antibody-drug conjugates with dual payloads for combating breast tumor heterogeneity and drug resistance**  
-   期刊/年份/JIF：Nature Communications，2021，JIF 18.1。  
-   作者：Chisato M. Yamazaki, Aiko Yamaguchi, Yasuaki Anami, Wei Xiong, Yoshihiro Otani, Jangsoon Lee, Naoto T. Ueno, Ningyan Zhang, Zhiqiang An, Kyoji Tsuchikama。  
-   简短简介：当前双payload ADC方向最直接的CNS子刊原始研究之一。论文直接构建并评价dual-drug ADC，包含体内疗效、药代、安全性、抗原异质性模型和耐药模型。  
-   链接/DOI/PMID/影响力：[Nature Communications](https://www.nature.com/articles/s41467-021-23793-7)；DOI：10.1038/s41467-021-23793-7；PMID：34112795；Nature页面显示约294次引用、106k访问。
-
-2. **Exploring the next generation of antibody-drug conjugates**  
-   期刊/年份/JIF：Nature Reviews Clinical Oncology，2024，JIF 94.6。  
-   作者：Kyoji Tsuchikama, Yasuaki Anami, Summer Y. Y. Ha, Chisato M. Yamazaki。  
-   简短简介：高影响力综述，将dual-drug ADC列为下一代ADC格式。该文不作为原始药效证据，但可作为领域权威综述证据。  
-   链接/DOI/PMID：[PubMed](https://pubmed.ncbi.nlm.nih.gov/38191923/)；DOI：10.1038/s41571-023-00850-2；PMID：38191923。
-
-- 证据类型：
-
-CNS子刊原始论文、CNS子刊综述、PubMed、Nature文章指标、专利、公司转化披露。
-
-- 权威性判断：
-
-A+。这是目前最稳健的核心顶尖团队。判断依据包括：有直接dual-payload ADC原始研究；论文与主题高度相关；Nature页面引用和访问数据高；后续Nature Chemistry综述和Nature Reviews Clinical Oncology综述均将该方向纳入multi/dual-payload ADC讨论；相关linker和偶联技术有专利与产业转化线索。
-
-- 证据限制：
-
-2021年论文主要是HER2 MMAE/MMAF临床前研究，不能直接外推到所有靶点和payload组合。CrossBridge Bio的CBB-120等后续项目尚未看到CNS原始论文和人体疗效数据。
-
-- 可验证途径：
-
-Nature Communications、PubMed、Nature Reviews Clinical Oncology、Google Patents、UTHealth公开页面、CrossBridge/Lilly公开披露。
-
-### University of Cambridge / Goncalo J. L. Bernardes团队
-
-- 类型：学术方法学与综述团队  
-- 机构/学校：University of Cambridge；Instituto de Medicina Molecular Joao Lobo Antunes  
-- 国家：英国/葡萄牙  
-- 权威等级：A-
-
-- 核心成员：
-
-Toby Journeaux、Goncalo J. L. Bernardes。作者和机构信息可由Nature Chemistry页面核验。来源：[Nature Chemistry](https://www.nature.com/articles/s41557-024-01507-y)
-
-- 研究成果：
-
-2024年，该团队在Nature Chemistry发表Homogeneous multi-payload antibody-drug conjugates综述，系统总结multi-payload ADC的生成方法、预临床和临床结果，并比较branched linker、非天然氨基酸、酶介导偶联等策略。该文属于CNS子刊高质量综述，JIF 24.5。来源：[Nature Chemistry](https://www.nature.com/articles/s41557-024-01507-y)
-
-- 主要研究方向：
-
-生物偶联化学、位点特异性蛋白修饰、均一化ADC、多payload ADC方法学、抗体多功能化。
-
-- 发散研究方向：
-
-多位点多payload抗体、蛋白质化学修饰、可转化偶联技术、ADC linker与payload比例设计。
-
-- 代表论文：
-
-1. **Homogeneous multi-payload antibody-drug conjugates**  
-   期刊/年份/JIF：Nature Chemistry，2024，JIF 24.5。  
-   作者：Toby Journeaux, Goncal J. L. Bernardes。  
-   简短简介：multi-payload ADC方向最集中的CNS子刊综述之一。该文总结方法、临床前/临床进展和未来挑战，但不是原始候选药物研究。  
-   链接/DOI/影响力：[Nature Chemistry](https://www.nature.com/articles/s41557-024-01507-y)；DOI：10.1038/s41557-024-01507-y；Nature页面显示约57次引用、13k访问。
-
-- 证据类型：
-
-CNS子刊综述。
-
-- 权威性判断：
-
-A-。该团队在方法学评价和领域框架方面权威性强，Nature Chemistry期刊影响力高，主题相关性也高。但代表论文是综述，不是dual-drug ADC原始实验论文，因此低于UTHealth Houston / MD Anderson团队。
-
-- 证据限制：
-
-该团队在本报告中主要作为领域综述和方法学评价权威，不代表其拥有已公开dual-payload ADC临床候选物。该综述获得AstraZeneca资助，阅读时需要注意潜在产业视角。来源：[Nature Chemistry](https://www.nature.com/articles/s41557-024-01507-y)
-
-- 可验证途径：
-
-Nature Chemistry、作者机构主页、Bernardes团队相关CNS子刊生物偶联论文。
-
-### Peking University / Tao Liu团队
-
-- 类型：学术方法学团队  
-- 机构/学校：Peking University School of Pharmaceutical Sciences；Peking University First Hospital  
-- 国家：中国  
-- 权威等级：B+
-
-- 核心成员：
-
-Tao Liu、Xing Yang、Yong Wang、Jingming Zhang、Boyang Han、Jing Wang等。作者和机构信息可由Nature Communications页面核验。来源：[Nature Communications](https://www.nature.com/articles/s41467-023-36658-y)
-
-- 研究成果：
-
-该团队在Nature Communications发表非天然氨基酸双正交反应把手研究，开发pTAF和mTAF，用于一锅法制备蛋白dual conjugates和triconjugates。论文展示了抗体片段与荧光团、放射性同位素、PEG和药物等组合修饰，用于肿瘤诊断、影像引导手术和靶向治疗模型。该研究不是完整IgG dual-drug ADC疗效论文，但为同一蛋白/抗体片段装载多种功能payload提供了CNS子刊方法学证据。Nature Communications JIF 18.1。来源：[Nature Communications](https://www.nature.com/articles/s41467-023-36658-y)
-
-- 主要研究方向：
-
-非天然氨基酸、双正交生物偶联、蛋白多重偶联、抗体片段药物偶联、肿瘤诊疗一体化。
-
-- 发散研究方向：
-
-抗体片段drug conjugate、多模态诊疗、site-specific multi-conjugate、影像与治疗payload共递送。
-
-- 代表论文：
-
-1. **Noncanonical amino acids as doubly bio-orthogonal handles for one-pot preparation of protein multiconjugates**  
-   期刊/年份/JIF：Nature Communications，2023，JIF 18.1。  
-   作者：Yong Wang, Jingming Zhang, Boyang Han等；通讯作者包括Xing Yang和Tao Liu。  
-   简短简介：该文与dual-payload ADC的关系属于“方法学支撑”。它证明可用双正交非天然氨基酸构建蛋白/抗体片段多重偶联物，但不是完整双payload ADC候选药物的直接疗效论文。  
-   链接/DOI/影响力：[Nature Communications](https://www.nature.com/articles/s41467-023-36658-y)；DOI：10.1038/s41467-023-36658-y；Nature页面显示约71次引用、28k访问。
-
-- 证据类型：
-
-CNS子刊方法学原始论文。
-
-- 权威性判断：
-
-B+。该团队有高质量CNS子刊方法学原始论文，且与“在一个蛋白/抗体构型上装载多个payload”直接相关；但它不是完整IgG双payload ADC药效论文，因此不能与UTHealth Houston / MD Anderson团队等量齐观。
-
-- 证据限制：
-
-论文主要是蛋白/抗体片段多功能偶联平台，不是完整IgG双payload ADC临床前候选药物研究。不能把平台可行性直接等同于dual-payload ADC临床转化成功。
-
-- 可验证途径：
-
-Nature Communications、Peking University作者主页、后续CNS子刊方法学论文。
-
-### CrossBridge Bio / Eli Lilly
-
-- 类型：转化公司 / 大药企收购对象  
-- 机构/学校：CrossBridge Bio；Eli Lilly  
-- 国家：美国  
-- 权威等级：B，产业重点跟踪；不具备独立CNS论文质量等级
-
-- 核心成员：
-
-公司公开披露显示，CrossBridge Bio技术源自UTHealth Houston Kyoji Tsuchikama相关dual-payload ADC技术。公开新闻稿提到Michael Torres为Co-Founder and CEO。具体公司内部研发岗位和未公开合作关系不作推断。来源：[BusinessWire](https://www.businesswire.com/news/home/20260414133394/en/CrossBridge-Bio-Enters-an-Agreement-to-be-Acquired-by-Eli-Lilly-to-Advance-Next-Generation-Dual-Payload-Antibody-Drug-Conjugates)
-
-- 研究成果：
-
-按CNS论文口径，CrossBridge Bio候选物CBB-120尚无可核验CNS系列原始论文。其可写入本报告的原因不是独立论文质量，而是其技术源头与UTHealth Houston / Tsuchikama团队的Nature Communications原始论文、专利和linker技术存在公开披露关联。
-
-- 主要研究方向：
-
-TROP2 dual-payload ADC、TOP1 inhibitor + ATR inhibitor、耐药实体瘤、下一代ADC linker和payload组合。
-
-- 发散研究方向：
-
-其他肿瘤抗原靶点、DDR inhibitor组合、Lilly ADC平台整合。
-
-- 代表论文：
-
-暂无CBB-120直接相关的CNS系列及子刊代表论文。相关源头CNS论文见第3节第1项。
-
-- 辅助事实证据：
-
-CrossBridge Bio新闻稿披露CBB-120为TROP2-targeting TOP1i/ATRi dual-payload ADC，预计2026年IND；Eli Lilly最高3亿美元收购CrossBridge Bio。来源：[BusinessWire](https://www.businesswire.com/news/home/20260414133394/en/CrossBridge-Bio-Enters-an-Agreement-to-be-Acquired-by-Eli-Lilly-to-Advance-Next-Generation-Dual-Payload-Antibody-Drug-Conjugates)
-
-Nature Reviews Drug Discovery 2026年新闻简报也报道Lilly最高3亿美元收购CrossBridge Bio。该文是Nature子刊新闻，不作为原始论文质量证据。来源：[Nature Reviews Drug Discovery](https://www.nature.com/articles/d41573-026-00079-5)
-
-- 证据类型：
-
-CNS源头论文关联、公司新闻稿、Nature子刊新闻、专利。
-
-- 权威性判断：
-
-产业重点跟踪对象。CrossBridge的强项是“CNS源头论文 + 专利 + 大药企收购”的转化链条，但其公司候选物本身尚无CNS直接论文，因此不能给A类论文质量等级。
-
-- 证据限制：
-
-CBB-120尚无公开人体疗效数据；不能把HER2 MMAE/MMAF论文结果直接外推为TROP2 TOP1i/ATRi项目疗效。
-
-- 可验证途径：
-
-Nature Communications、Google Patents、BusinessWire、Nature Reviews Drug Discovery、Lilly后续管线披露、ClinicalTrials.gov后续记录。
-
-### Callio Therapeutics
-
-- 类型：公司  
-- 机构/学校：Callio Therapeutics；项目来源与Hummingbird Bioscience许可相关  
-- 国家：美国/新加坡  
-- 权威等级：B-，产业重点跟踪；暂无CNS论文质量等级
-
-- 核心成员：
-
-公开管理层包括Zachary Hornby、Piers Ingram、Jerome Boyd-Kirkup、Naomi Hunder等；临床研究者以临床试验和会议披露为准。Callio官网显示Zachary Hornby为CEO，Piers Ingram为President和Co-Founder，Jerome Boyd-Kirkup为CSO和Co-Founder，Naomi Hunder为CMO。来源：[Callio官网](https://calliotx.com/)
-
-- 研究成果：
-
-按CNS论文口径，未找到CLIO-8221直接相关的CNS系列及子刊原始论文。因此，Callio不能凭论文质量进入顶尖科研团队层级。
-
-- 主要研究方向：
-
-HER2 dual-payload ADC、TOP1 inhibitor + ATR inhibitor、DNA damage response、HER2表达实体瘤。
-
-- 发散研究方向：
-
-HER2低表达或异质性实体瘤、Topo1 inhibitor耐药、DNA损伤应答抑制剂与ADC联用机制。
-
-- 代表论文：
-
-暂无符合本报告口径的CNS系列及子刊直接代表论文。
-
-- 辅助事实证据：
-
-Callio官网披露其lead program为dual-payload HER2-targeted ADC；公司新闻稿披露CLIO-8221进入Phase I临床，payload类别为topoisomerase 1 inhibitor和ATR inhibitor。Callio 2025年启动新闻稿披露，公司基于从Hummingbird Bioscience独家许可的multi-payload ADC技术和项目成立。来源：[Callio官网](https://calliotx.com/)，[PR Newswire](https://www.prnewswire.com/news-releases/callio-therapeutics-launches-with-us187-million-series-a-to-advance-multi-payload-antibody-drug-conjugate-platform-through-clinical-proof-of-concept-302388161.html)
-
-ASCO/JCO摘要披露CLIO-8221为HER2-targeted dual-payload exatecan and ATR inhibitor ADC，临床试验编号NCT07300943。该摘要不是CNS来源，不能进入论文质量评价。来源：[Journal of Clinical Oncology / ASCO摘要](https://ascopubs.org/doi/10.1200/JCO.2026.44.16_suppl.TPS3162)
-
-- 证据类型：
-
-公司官网、公司新闻稿、ASCO/JCO会议摘要。无CNS直接论文。
-
-- 权威性判断：
-
-产业重点跟踪对象。Callio的临床推进价值较高，但科研权威等级不能用非CNS资料上调。
-
-- 证据限制：
-
-暂无公开CNS论文和完整人体疗效数据。公司“first-in-class”等表述需降权处理。
-
-- 可验证途径：
-
-Callio官网、ClinicalTrials.gov、ASCO/JCO摘要、后续CNS论文或正式临床论文。
-
-### Lonza / Synaffix
-
-- 类型：技术平台公司 / CDMO  
-- 机构/学校：Synaffix B.V.，现为Lonza ADC technology平台  
-- 国家：瑞士/荷兰  
-- 权威等级：B-，产业重点跟踪；暂无CNS论文质量等级
-
-- 核心成员：
-
-Peter van de Sande、Remon van Geel、Floris van Delft等公开平台相关人员。具体项目负责人以公司公开披露为准。
-
-- 研究成果：
-
-按CNS论文口径，未找到Lonza/Synaffix在dual-payload ADC方向的CNS系列及子刊直接原始论文。
-
-- 主要研究方向：
-
-GlycoConnect、HydraSpace、toxSYN、糖基位点定点偶联、payload组合、ADC CMC和授权平台。
-
-- 发散研究方向：
-
-TOP1 inhibitor + microtubule inhibitor、TOP1 inhibitor + CDK7 inhibitor、平台授权型dual-payload ADC。
-
-- 代表论文：
-
-暂无符合本报告口径的CNS系列及子刊直接代表论文。
-
-- 辅助事实证据：
-
-Lonza与Antharis披露独家target-specific license，用于开发胃肠道癌症方向dual-payload ADC。来源：[Lonza官方新闻](https://www.lonza.com/media-advisories/2026-06-15-15-00)
-
-Synaffix与Qurient披露dual-payload ADC授权合作，组合为Synaffix exatecan-based technology与Qurient CDK7 inhibitor。来源：[PR Newswire](https://www.prnewswire.com/news-releases/lonzas-synaffix-collaborates-with-qurient-therapeutics-to-enable-development-of-dual-payload-adc-302566442.html)
-
-- 证据类型：
-
-公司官网、授权新闻稿。无CNS直接论文。
-
-- 权威性判断：
-
-产业重点跟踪对象。其平台成熟度和授权活跃度强，但本报告不能用授权新闻或平台宣传替代CNS论文质量。
-
-- 证据限制：
-
-客户项目细节多未披露，缺少公开dual-payload ADC临床数据和CNS论文。
-
-- 可验证途径：
-
-Lonza官网、Synaffix/Lonza授权公告、专利族、后续ClinicalTrials.gov记录、后续CNS论文。
-
-### Chengdu Kanghong Pharmaceutical
-
-- 类型：公司  
-- 机构/学校：成都康弘药业  
-- 国家：中国  
-- 权威等级：B-，产业重点跟踪；暂无CNS论文质量等级
-
-- 核心成员：
-
-公开资料中可见KH815相关研发人员姓名，但本报告不把非CNS论文或会议摘要作者作为论文质量指标。
-
-- 研究成果：
-
-按CNS论文口径，未找到KH815直接相关的CNS系列及子刊原始论文。因此，KH815不能凭非CNS论文或会议摘要进入CNS论文质量排名。
-
-- 主要研究方向：
-
-TROP2 dual-payload ADC、TOP1 inhibitor + RNA polymerase II inhibitor、实体瘤耐药、ADC联合免疫治疗。
-
-- 发散研究方向：
-
-TNBC、鳞状NSCLC、TROP2高表达实体瘤、PD-L1/VEGF双抗联合。
-
-- 代表论文：
-
-暂无符合本报告口径的CNS系列及子刊直接代表论文。
-
-- 辅助事实证据：
-
-AACR摘要披露KH815为TROP2-targeted dual payload ADC，payload组合包括topoisomerase I inhibitor和RNA polymerase inhibitor。该摘要不是CNS来源，不进入论文质量评价。来源：[AACR Cancer Research摘要](https://aacrjournals.org/cancerres/article/86/8_Supplement/LB333/783362/Abstract-LB333-Synergistic-antitumor-efficacy-and)
-
-ICH GCP临床试验镜像页面显示NCT06885645中KH815 for injection为TROP2 antigen targeting dual-payload ADC。该来源只用于临床事实核验。来源：[ICH GCP / NCT06885645](https://ichgcp.net/clinical-trials-registry/NCT06885645)
-
-- 证据类型：
-
-会议摘要、临床注册镜像、公司/产业线索。无CNS直接论文。
-
-- 权威性判断：
-
-产业重点跟踪对象。其项目方向具有产业关注价值，但在本任务口径下不能用非CNS论文、会议摘要或公司披露上调科研权威等级。
-
-- 证据限制：
-
-缺少CNS直接论文和完整临床疗效数据。早期临床摘要不等于正式临床成功。
-
-- 可验证途径：
-
-ClinicalTrials.gov、ICH GCP镜像、AACR摘要、公司公告、后续CNS论文或正式临床论文。
-
+﻿# 01_双payload ADC顶尖团队公司研究方向与科研关系报告
+
+## 1. 团队/公司总览
+
+| 编号 | 团队/公司 | 类型 | 国家 | 权威等级 | 主要研究方向 | 代表证据，不用论文编号 |
+|---|---|---|---|---|---|---|
+| T001 | Tsuchikama/Yamazaki团队 | 学术团队 | 美国 | 核心直接团队-A | 肿瘤异质性/耐药导向的双载荷ADC；下一代ADC工程；连接子与偶联化学 | [Antibody-drug conjugates with dual payloads for combating breast tumor heterogeneity and drug resistance](https://pubmed.ncbi.nlm.nih.gov/34112795/)；[Antibody-drug conjugates: recent advances in conjugation and linker chemistries](https://pubmed.ncbi.nlm.nih.gov/27743348/)；[Exploring the next generation of antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/38191923/) |
+| T002 | Bernardes团队 | 学术团队 | 英国 | 核心直接团队-A | 均一多载荷抗体；多功能化抗体；化学生物学与位点特异性功能化 | [Homogeneous multi-payload antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/38760431/)；[Site-Specific Quadruple-Functionalised Antibodies](https://pubmed.ncbi.nlm.nih.gov/39423140/) |
+| T003 | Liu/Zhou团队 | 学术团队 | 美国 | 核心直接团队-A | CD276/B7-H3双载荷ADC；细胞毒与免疫激活；TNBC模型 | [A Dual-Payload Antibody-Drug Conjugate Targeting CD276/B7-H3 Elicits Cytotoxicity and Immune Activation in Triple-Negative Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/39186778/)；[Advanced CD276-Targeting Dual-Payload Antibody-Drug Conjugates for Cancer Therapy](https://pubmed.ncbi.nlm.nih.gov/42013359/) |
+| T004 | Kanghong双载荷ADC平台团队 | 公司团队 | 中国 | 核心直接团队-A | Exatecan+Triptolide双载荷平台；质量分析；克服耐药 | [A Novel Dual-Payload ADC Platform Integrating Exatecan and Triptolide to Enhance Antitumor Efficacy and Overcome Resistance](https://pubmed.ncbi.nlm.nih.gov/41121984/)；[Advancements in Dual-Load Antibody-Drug Conjugates and Challenges with Quality Analysis](https://pubmed.ncbi.nlm.nih.gov/42356477/) |
+| T005 | Tavotek团队 | 公司团队 | 暂无法完全核验 | 核心直接团队-B | 双载荷双特异性ADC；与单载荷双抗ADC比较 | [A Dual-Payload Bispecific ADC Improved Potency and Efficacy over Single-Payload Bispecific ADCs](https://pubmed.ncbi.nlm.nih.gov/40870990/) |
+| T006 | Ajinomoto AJICAP团队 | 公司团队 | 日本 | 核心直接团队-B | 通过组合不同偶联策略制备均一双载荷ADC；AJICAP/site-specific conjugation | [Homogeneous Dual-Payload Antibody-Drug Conjugates Produced by Combined Distinct Conjugation Strategies](https://pubmed.ncbi.nlm.nih.gov/40666474/) |
+| T007 | Sutro团队 | 公司团队 | 美国 | 核心直接团队-B | 均一双载荷ADC方法、潜力和限制；平台化思考 | [Homogeneous antibody-drug conjugates with dual payloads: potential, methods and considerations](https://pubmed.ncbi.nlm.nih.gov/40322862/) |
+| T008 | USTC免疫治疗团队 | 学术团队 | 中国 | 核心直接团队-B | 双载荷ADC联合PD-L1&4-1BB双抗；肿瘤免疫微环境重塑；冷肿瘤转热 | [Igniting cold tumors: reprogramming the tumor immune microenvironment with dual-payload ADCs in combination with PD-L1&4-1BB bispecific antibodies](https://pubmed.ncbi.nlm.nih.gov/42236121/) |
+| T009 | Chudasama团队 | 学术团队 | 英国 | 关键支撑团队-A | 哒嗪二酮/点击化学；多载荷硫代抗体偶联 | [Enabling the synthesis of multi-payload thio-antibody conjugates through the use of pyridazinediones, p-anisidine derivatives and various click chemistries](https://pubmed.ncbi.nlm.nih.gov/41726384/) |
+| T010 | Seagen ADC化学团队 | 公司团队 | 美国 | 关键支撑团队-A | 正交半胱氨酸保护；multi-drug ADC；DAR/药物负载基础 | [Orthogonal Cysteine Protection Enables Homogeneous Multi-Drug Antibody-Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/27966822/)；[Effects of drug loading on the antitumor activity of a monoclonal antibody drug conjugate](https://pubmed.ncbi.nlm.nih.gov/15501986/) |
+| T011 | Daiichi Sankyo T-DXd团队 | 公司团队 | 日本/美国 | 关键支撑团队-A | DXd/Exatecan类TOP1 payload；HER2 ADC临床转化；旁观者效应；PK/暴露-反应 | [Bystander killing effect of DS-8201a, a novel anti-human epidermal growth factor receptor 2 antibody-drug conjugate, in tumors with human epidermal growth factor receptor 2 heterogeneity](https://pubmed.ncbi.nlm.nih.gov/27166974/)；[Novel antibody drug conjugates containing exatecan derivative-based cytotoxic payloads](https://pubmed.ncbi.nlm.nih.gov/26898815/)；[Exposure-Response Relationships in Patients With HER2-Positive Metastatic Breast Cancer and Other Solid Tumors Treated With Trastuzumab Deruxtecan](https://pubmed.ncbi.nlm.nih.gov/33999422/)；[The Latest Research and Development into the Antibody-Drug Conjugate, fam-Trastuzumab Deruxtecan (DS-8201a), for HER2 Cancer Therapy](https://pubmed.ncbi.nlm.nih.gov/30827997/)；[Safety, pharmacokinetics, and antitumour activity of trastuzumab deruxtecan (DS-8201), a HER2-targeting antibody-drug conjugate, in patients with advanced breast and gastric or gastro-oesophageal tumours: a phase 1 dose-escalation study](https://pubmed.ncbi.nlm.nih.gov/29037983/)；[Trastuzumab deruxtecan (DS-8201a) in patients with advanced HER2-positive breast cancer previously treated with trastuzumab emtansine: a dose-expansion, phase 1 study](https://pubmed.ncbi.nlm.nih.gov/31047803/) |
+| T012 | Astellas临床药理团队 | 公司团队 | 荷兰/日本相关 | 关键支撑团队-B | 双载荷ADC临床药理、PK/PD、多组分分析、转化科学问题 | [Clinical Pharmacology and Translational Science Considerations in the Development of Dual-Payload Antibody Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/42089685/) |
+| T013 | MediLink B7-H3临床团队 | 公司/临床团队 | 中国 | 关键支撑团队-B | B7-H3 ADC临床转化；晚期实体瘤I/II期背景 | [A B7H3-targeting antibody-drug conjugate in advanced solid tumors: a phase 1/1b trial](https://pubmed.ncbi.nlm.nih.gov/40082695/) |
+| T014 | Callio/CLIO-8221临床团队 | 公司/临床团队 | 美国/多中心 | 新兴临床团队-B | HER2靶向Exatecan+ATR inhibitor双payload ADC；1/2期临床设计 | [Phase 1/2 study of CLIO-8221, a HER2-targeted, dual-payload exatecan and ATR inhibitor antibody-drug conjugate (ADC) in patients with advanced HER2-expressing solid tumors](https://ascopubs.org/doi/10.1200/JCO.2026.44.16_suppl.TPS3162) |
+
+## 2. 团队/公司详解
+
+### T001 Tsuchikama/Yamazaki团队
+
+- **类型**：学术团队
+- **机构/公司**：UTHealth Houston / Texas Therapeutics Institute
+- **国家**：美国
+- **权威等级**：核心直接团队-A
+- **核心成员**：Kyoji Tsuchikama; Chisato M. Yamazaki; Yasuaki Anami; Zhiqiang An
+- **主要研究方向**：肿瘤异质性/耐药导向的双载荷ADC；下一代ADC工程；连接子与偶联化学
+- **发散研究方向**：双载荷策略价值;肿瘤异质性;耐药机制;HER2路线;连接子化学;下一代ADC框架
+- **代表论文**：
+  - [Antibody-drug conjugates with dual payloads for combating breast tumor heterogeneity and drug resistance](https://pubmed.ncbi.nlm.nih.gov/34112795/)；Nat Commun，2021。简介：证明双载荷 ADC 策略可用于处理 HER2 异质性肿瘤和耐药问题。质量判断：来源质量高，主题与双 payload ADC 直接相关，适合作为核心证据。
+  - [Antibody-drug conjugates: recent advances in conjugation and linker chemistries](https://pubmed.ncbi.nlm.nih.gov/27743348/)；Protein Cell，2018。简介：为双载荷构建提供基础连接子和偶联化学综述。质量判断：来源质量可用，需结合后续引用、外部验证和临床转化情况判断权重。
+  - [Exploring the next generation of antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/38191923/)；Nat Rev Clin Oncol，2024。简介：提供包括工程化方向在内的下一代 ADC 总体框架。质量判断：来源质量高，但不是双 payload ADC 原始论文，适合作为背景或临床转化支撑。
+- **证据类型**：直接双payload论文+高质量综述
+- **权威性判断**：在双载荷ADC生物学应用逻辑上最权威之一；《Antibody-drug conjugates with dual payloads for combating breast tumor heterogeneity and drug resistance》是直接强证据，《Antibody-drug conjugates: recent advances in conjugation and linker chemistries》/《Exploring the next generation of antibody-drug conjugates》支撑ADC工程背景。
+- **证据限制**：其核心强项是HER2异质性/耐药和ADC工程，不等同于所有payload组合规则已被该团队解决。
+
+### T002 Bernardes团队
+
+- **类型**：学术团队
+- **机构/公司**：University of Cambridge
+- **国家**：英国
+- **权威等级**：核心直接团队-A
+- **核心成员**：Goncalo J. L. Bernardes; Toby Journeaux
+- **主要研究方向**：均一多载荷抗体；多功能化抗体；化学生物学与位点特异性功能化
+- **发散研究方向**：均一多载荷ADC;多载荷平台边界;产品均一性;四功能化抗体平台;载荷比例优化
+- **代表论文**：
+  - [Homogeneous multi-payload antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/38760431/)；Nat Chem，2024。简介：界定均一多载荷 ADC 的设计空间和技术考虑。质量判断：来源质量高，主题与双 payload ADC 直接相关，适合作为核心证据。
+  - [Site-Specific Quadruple-Functionalised Antibodies](https://pubmed.ncbi.nlm.nih.gov/39423140/)；Angew Chem Int Ed Engl，2025。简介：支撑多功能抗体工程，对多载荷 ADC 有方法学意义。质量判断：同行评议专业期刊，但不是双 payload ADC 原始论文，应作为背景或方法支撑。
+- **证据类型**：高影响期刊+同团队连续主题论文
+- **权威性判断**：在均一multi-payload抗体和多功能化抗体设计方面最权威之一；《Homogeneous multi-payload antibody-drug conjugates》为Nat Chem综述/观点型核心文献。
+- **证据限制**：更偏平台与化学工程框架，直接肿瘤疗效证据少。
+
+### T003 Liu/Zhou团队
+
+- **类型**：学术团队
+- **机构/公司**：The Ohio State University
+- **国家**：美国
+- **权威等级**：核心直接团队-A
+- **核心成员**：Xiaoguang Liu; Zhuoxin Zora Zhou
+- **主要研究方向**：CD276/B7-H3双载荷ADC；细胞毒与免疫激活；TNBC模型
+- **发散研究方向**：CD276/B7-H3路线;免疫激活;靶点选择;双载荷策略价值;冷肿瘤相关免疫方向
+- **代表论文**：
+  - [A Dual-Payload Antibody-Drug Conjugate Targeting CD276/B7-H3 Elicits Cytotoxicity and Immune Activation in Triple-Negative Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/39186778/)；Cancer Res，2024。简介：显示 CD276/B7-H3 双载荷 ADC 可在 TNBC 模型中结合细胞毒作用和免疫激活。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+  - [Advanced CD276-Targeting Dual-Payload Antibody-Drug Conjugates for Cancer Therapy](https://pubmed.ncbi.nlm.nih.gov/42013359/)；Cancer Res Commun，2026。简介：延展 CD276 靶向双载荷 ADC 的癌症治疗设计。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+- **证据类型**：连续直接双payload论文
+- **权威性判断**：在CD276/B7-H3双载荷ADC直接实验方向上最权威之一，有连续论文支撑。
+- **证据限制**：证据集中于CD276/B7-H3和肿瘤模型，临床转化仍需更多数据。
+
+### T004 Kanghong双载荷ADC平台团队
+
+- **类型**：公司团队
+- **机构/公司**：Chengdu Kanghong Pharmaceutical Group
+- **国家**：中国
+- **权威等级**：核心直接团队-A
+- **核心成员**：Pengfei Ren; Xiao Ke; Yonghao Zhao
+- **主要研究方向**：Exatecan+Triptolide双载荷平台；质量分析；克服耐药
+- **发散研究方向**：Exatecan+Triptolide组合;TOP1载荷路线;作用机制互补;毒性叠加风险;质量分析与CMC
+- **代表论文**：
+  - [A Novel Dual-Payload ADC Platform Integrating Exatecan and Triptolide to Enhance Antitumor Efficacy and Overcome Resistance](https://pubmed.ncbi.nlm.nih.gov/41121984/)；Mol Cancer Ther，2026。简介：提出 Exatecan/Triptolide 双载荷平台，目标是增强疗效并应对耐药。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+  - [Advancements in Dual-Load Antibody-Drug Conjugates and Challenges with Quality Analysis](https://pubmed.ncbi.nlm.nih.gov/42356477/)；Pharmaceuticals (Basel)，2026。简介：总结双载荷 ADC 进展和质量分析瓶颈。质量判断：来源质量可用，需结合后续引用、外部验证和临床转化情况判断权重。
+- **证据类型**：直接双payload平台论文+质量分析综述
+- **权威性判断**：在Exatecan+Triptolide双载荷组合方向上最直接；《A Novel Dual-Payload ADC Platform Integrating Exatecan and Triptolide to Enhance Antitumor Efficacy and Overcome Resistance》是该组合核心证据。
+- **证据限制**：目前公开直接证据主要集中在单一组合平台，需更多独立验证。
+
+### T005 Tavotek团队
+
+- **类型**：公司团队
+- **机构/公司**：Tavotek Biotherapeutics
+- **国家**：暂无法完全核验
+- **权威等级**：核心直接团队-B
+- **核心成员**：Nicole A. Wilski等
+- **主要研究方向**：双载荷双特异性ADC；与单载荷双抗ADC比较
+- **发散研究方向**：双载荷双特异性ADC;双载荷优于单载荷;作用机制互补;头对头临床获益待验证
+- **代表论文**：
+  - [A Dual-Payload Bispecific ADC Improved Potency and Efficacy over Single-Payload Bispecific ADCs](https://pubmed.ncbi.nlm.nih.gov/40870990/)；Pharmaceutics，2025。简介：比较双载荷双特异性 ADC 与单载荷双特异性 ADC 的效果。质量判断：来源质量可用，需结合后续引用、外部验证和临床转化情况判断权重。
+- **证据类型**：直接双payload bispecific ADC论文
+- **权威性判断**：在dual-payload bispecific ADC前临床比较方向有直接证据。
+- **证据限制**：目前主要是单篇前临床/药剂学论文，临床获益未证明。
+
+### T006 Ajinomoto AJICAP团队
+
+- **类型**：公司团队
+- **机构/公司**：Ajinomoto Co.
+- **国家**：日本
+- **权威等级**：核心直接团队-B
+- **核心成员**：Tomohiro Watanabe; Yutaka Matsuda
+- **主要研究方向**：通过组合不同偶联策略制备均一双载荷ADC；AJICAP/site-specific conjugation
+- **发散研究方向**：双载荷均一制备;位点特异性偶联;产品均一性;载荷比例优化
+- **代表论文**：
+  - [Homogeneous Dual-Payload Antibody-Drug Conjugates Produced by Combined Distinct Conjugation Strategies](https://pubmed.ncbi.nlm.nih.gov/40666474/)；ACS Med Chem Lett，2025。简介：证明可通过组合偶联策略制备均一双载荷 ADC。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+- **证据类型**：直接双payload均一偶联论文
+- **权威性判断**：在均一双payload制备和产业化偶联方法方向较权威。
+- **证据限制**：公开证据主要是一篇方法论文，生物学和临床证据较少。
+
+### T007 Sutro团队
+
+- **类型**：公司团队
+- **机构/公司**：Sutro Biopharma
+- **国家**：美国
+- **权威等级**：核心直接团队-B
+- **核心成员**：Miao Wen; Hans-Peter Gerber; Gang Yin等
+- **主要研究方向**：均一双载荷ADC方法、潜力和限制；平台化思考
+- **发散研究方向**：均一双载荷ADC;双载荷均一制备;释放速率匹配;最优组合规则待验证
+- **代表论文**：
+  - [Homogeneous antibody-drug conjugates with dual payloads: potential, methods and considerations](https://pubmed.ncbi.nlm.nih.gov/40322862/)；MAbs，2025。简介：总结均一双载荷 ADC 的潜力、方法和限制。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+- **证据类型**：MAbs综述/方法考虑
+- **权威性判断**：在均一双payload方法综述与平台判断上重要。
+- **证据限制**：主要为方法综述，直接实验和临床数据需要外部论文支撑。
+
+### T008 USTC免疫治疗团队
+
+- **类型**：学术团队
+- **机构/公司**：中国科学技术大学/中科大附一院
+- **国家**：中国
+- **权威等级**：核心直接团队-B
+- **核心成员**：Jing Pan; Zhengzhi Zhu; Tengchuan Jin; Yueyin Pan; Shoubing Zhou
+- **主要研究方向**：双载荷ADC联合PD-L1&4-1BB双抗；肿瘤免疫微环境重塑；冷肿瘤转热
+- **发散研究方向**：免疫激活;冷肿瘤转热;免疫微环境;联合治疗
+- **代表论文**：
+  - [Igniting cold tumors: reprogramming the tumor immune microenvironment with dual-payload ADCs in combination with PD-L1&4-1BB bispecific antibodies](https://pubmed.ncbi.nlm.nih.gov/42236121/)；J Immunother Cancer，2026。简介：将双载荷 ADC 策略与肿瘤免疫微环境重塑联系起来。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+- **证据类型**：直接双payload免疫微环境论文
+- **权威性判断**：在双载荷ADC免疫微环境方向有直接前沿证据。
+- **证据限制**：目前公开支撑集中在单篇论文，需更多独立验证。
+
+### T009 Chudasama团队
+
+- **类型**：学术团队
+- **机构/公司**：University College London / MSD UK相关合作
+- **国家**：英国
+- **权威等级**：关键支撑团队-A
+- **核心成员**：Vijay Chudasama; James R. Baker; Cliona McMahon等
+- **主要研究方向**：哒嗪二酮/点击化学；多载荷硫代抗体偶联
+- **发散研究方向**：多载荷硫代抗体;位点特异性偶联;连接子与偶联化学;多payload制备
+- **代表论文**：
+  - [Enabling the synthesis of multi-payload thio-antibody conjugates through the use of pyridazinediones, p-anisidine derivatives and various click chemistries](https://pubmed.ncbi.nlm.nih.gov/41726384/)；RSC Chem Biol，2026。简介：提供多载荷硫代抗体偶联物的化学合成路径。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+- **证据类型**：直接multi-payload thio-antibody论文
+- **权威性判断**：在多payload抗体偶联化学方向非常重要。
+- **证据限制**：更偏化学方法，未必直接给出dual-payload ADC肿瘤疗效。
+
+### T010 Seagen ADC化学团队
+
+- **类型**：公司团队
+- **机构/公司**：Seattle Genetics / Seagen
+- **国家**：美国
+- **权威等级**：关键支撑团队-A
+- **核心成员**：Matthew R. Levengood; Peter D. Senter
+- **主要研究方向**：正交半胱氨酸保护；multi-drug ADC；DAR/药物负载基础
+- **发散研究方向**：正交半胱氨酸保护;DAR控制;药物负载;均一multi-drug ADC
+- **代表论文**：
+  - [Orthogonal Cysteine Protection Enables Homogeneous Multi-Drug Antibody-Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/27966822/)；Angew Chem Int Ed Engl，2017。简介：提供通过正交半胱氨酸保护制备均一多药物 ADC 的早期关键方法。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+  - [Effects of drug loading on the antitumor activity of a monoclonal antibody drug conjugate](https://pubmed.ncbi.nlm.nih.gov/15501986/)；Clin Cancer Res，2004。简介：经典证明药物负载会影响 ADC 活性和耐受性。质量判断：同行评议专业期刊，但不是双 payload ADC 原始论文，应作为背景或方法支撑。
+- **证据类型**：Angew方法论文+Clin Cancer Res经典DAR论文
+- **权威性判断**：在ADC化学、DAR和multi-drug ADC早期方法学方面非常权威。
+- **证据限制**：《Effects of drug loading on the antitumor activity of a monoclonal antibody drug conjugate》不是dual-payload论文，主要作为DAR和药物负载机制支撑。
+
+### T011 Daiichi Sankyo T-DXd团队
+
+- **类型**：公司团队
+- **机构/公司**：Daiichi Sankyo
+- **国家**：日本/美国
+- **权威等级**：关键支撑团队-A
+- **核心成员**：Yusuke Ogitani; Takashi Nakada; Ophelia Yin等
+- **主要研究方向**：DXd/Exatecan类TOP1 payload；HER2 ADC临床转化；旁观者效应；PK/暴露-反应
+- **发散研究方向**：TOP1载荷路线;旁观者杀伤;HER2路线;PK/PD与临床药理;暴露-反应关系
+- **代表论文**：
+  - [Bystander killing effect of DS-8201a, a novel anti-human epidermal growth factor receptor 2 antibody-drug conjugate, in tumors with human epidermal growth factor receptor 2 heterogeneity](https://pubmed.ncbi.nlm.nih.gov/27166974/)；Cancer Sci，2016。简介：提供抗原异质性肿瘤中旁观者效应的经典证据。质量判断：来源质量可用，需结合后续引用、外部验证和临床转化情况判断权重。
+  - [Novel antibody drug conjugates containing exatecan derivative-based cytotoxic payloads](https://pubmed.ncbi.nlm.nih.gov/26898815/)；Bioorg Med Chem Lett，2016。简介：为 TOP1 载荷组合提供 Exatecan 载荷设计背景。质量判断：来源质量可用，需结合后续引用、外部验证和临床转化情况判断权重。
+  - [Exposure-Response Relationships in Patients With HER2-Positive Metastatic Breast Cancer and Other Solid Tumors Treated With Trastuzumab Deruxtecan](https://pubmed.ncbi.nlm.nih.gov/33999422/)；Clin Pharmacol Ther，2021。简介：为 ADC 临床药理提供暴露-反应分析框架。质量判断：同行评议专业期刊，但不是双 payload ADC 原始论文，应作为背景或方法支撑。
+  - [The Latest Research and Development into the Antibody-Drug Conjugate, fam-Trastuzumab Deruxtecan (DS-8201a), for HER2 Cancer Therapy](https://pubmed.ncbi.nlm.nih.gov/30827997/)；Chem Pharm Bull (Tokyo)，2019。简介：为 TOP1 载荷、linker 和旁观者效应比较提供 T-DXd 背景。质量判断：来源质量可用，需结合后续引用、外部验证和临床转化情况判断权重。
+  - [Safety, pharmacokinetics, and antitumour activity of trastuzumab deruxtecan (DS-8201), a HER2-targeting antibody-drug conjugate, in patients with advanced breast and gastric or gastro-oesophageal tumours: a phase 1 dose-escalation study](https://pubmed.ncbi.nlm.nih.gov/29037983/)；Lancet Oncol，2017。简介：作为早期 T-DXd 临床转化基准。质量判断：来源质量高，但不是双 payload ADC 原始论文，适合作为背景或临床转化支撑。
+  - [Trastuzumab deruxtecan (DS-8201a) in patients with advanced HER2-positive breast cancer previously treated with trastuzumab emtansine: a dose-expansion, phase 1 study](https://pubmed.ncbi.nlm.nih.gov/31047803/)；Lancet Oncol，2019。简介：作为 T-DM1 后 T-DXd 临床扩展基准。质量判断：来源质量高，但不是双 payload ADC 原始论文，适合作为背景或临床转化支撑。
+- **证据类型**：机制论文+Lancet Oncol临床论文+临床药理论文
+- **权威性判断**：不是dual-payload专属团队，但在TOP1 payload、HER2 ADC和临床转化上是最权威背景之一。
+- **证据限制**：不能把T-DXd临床成功直接等同于dual-payload ADC成功。
+
+### T012 Astellas临床药理团队
+
+- **类型**：公司团队
+- **机构/公司**：Astellas Pharma
+- **国家**：荷兰/日本相关
+- **权威等级**：关键支撑团队-B
+- **核心成员**：Paulien Ravenstijn等
+- **主要研究方向**：双载荷ADC临床药理、PK/PD、多组分分析、转化科学问题
+- **发散研究方向**：PK/PD与临床药理;起始剂量与RP2D;安全窗;载荷比例优化;双载荷优于联用待验证
+- **代表论文**：
+  - [Clinical Pharmacology and Translational Science Considerations in the Development of Dual-Payload Antibody Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/42089685/)；Clin Transl Sci，2026。简介：梳理双载荷 ADC 特有的临床药理学开发问题。质量判断：同行评议专业期刊，主题直接，适合作为该方向的重要证据。
+- **证据类型**：Clin Transl Sci双payload ADC临床药理论文
+- **权威性判断**：在dual-payload ADC临床药理问题定义上非常关键。
+- **证据限制**：主要是框架和考虑事项，不是临床结果论文。
+
+### T013 MediLink B7-H3临床团队
+
+- **类型**：公司/临床团队
+- **机构/公司**：MediLink Therapeutics
+- **国家**：中国
+- **权威等级**：关键支撑团队-B
+- **核心成员**：Yuxiang Ma等
+- **主要研究方向**：B7-H3 ADC临床转化；晚期实体瘤I/II期背景
+- **发散研究方向**：CD276/B7-H3路线;适应症选择;临床转化;患者分层
+- **代表论文**：
+  - [A B7H3-targeting antibody-drug conjugate in advanced solid tumors: a phase 1/1b trial](https://pubmed.ncbi.nlm.nih.gov/40082695/)；Nat Med，2025。简介：为 CD276 转化背景提供临床 B7-H3 ADC 参考。质量判断：来源质量高，但不是双 payload ADC 原始论文，适合作为背景或临床转化支撑。
+- **证据类型**：Nat Med B7-H3 ADC临床论文
+- **权威性判断**：不是dual-payload专属，但对CD276/B7-H3路线临床可行性有重要支撑。
+- **证据限制**：该论文不是双payload ADC论文，只能作为靶点临床背景。
+
+### T014 Callio/CLIO-8221临床团队
+
+- **类型**：公司/临床团队
+- **机构/公司**：Callio Therapeutics / 多中心临床
+- **国家**：美国/多中心
+- **权威等级**：新兴临床团队-B
+- **核心成员**：Timothy A. Yap; Filipa Lynce; Callio Therapeutics相关作者
+- **主要研究方向**：HER2靶向Exatecan+ATR inhibitor双payload ADC；1/2期临床设计
+- **发散研究方向**：HER2路线;起始剂量与RP2D;临床格局;biomarker;双载荷优于联用待验证
+- **代表论文**：
+  - [Phase 1/2 study of CLIO-8221, a HER2-targeted, dual-payload exatecan and ATR inhibitor antibody-drug conjugate (ADC) in patients with advanced HER2-expressing solid tumors](https://ascopubs.org/doi/10.1200/JCO.2026.44.16_suppl.TPS3162)；Journal of Clinical Oncology，2026。简介：公开CLIO-8221作为HER2靶向、Exatecan+ATR inhibitor双payload ADC的1/2期临床设计，包含剂量递增、RP2D、PK、免疫原性和HER2/ctDNA biomarker评估。质量判断：JCO/ASCO 会议摘要，能证明临床设计公开存在，但不能等同于成熟疗效证据。
+- **证据类型**：JCO/ASCO会议摘要+NCT编号
+- **权威性判断**：新兴临床设计证据，代表dual-payload ADC进入临床的一条重要路线。
+- **证据限制**：会议摘要不是成熟疗效论文，不能作为疗效已验证证据。
+
+## 3. 同方向权威性对比
+
+| 研究方向 | 最权威团队/公司 | 权威层级 | 支撑证据，不用论文编号 | 说明 |
+|---|---|---|---|---|
+| 双载荷ADC总体与异质性耐药 | T001 | 第一梯队 | [Antibody-drug conjugates with dual payloads for combating breast tumor heterogeneity and drug resistance](https://pubmed.ncbi.nlm.nih.gov/34112795/)；[Exploring the next generation of antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/38191923/) | 《Antibody-drug conjugates with dual payloads for combating breast tumor heterogeneity and drug resistance》直接提出并验证双载荷ADC用于肿瘤异质性和耐药；《Exploring the next generation of antibody-drug conjugates》提供下一代ADC框架。 |
+| 均一多载荷/多功能化抗体 | T002 | 第一梯队 | [Homogeneous multi-payload antibody-drug conjugates](https://pubmed.ncbi.nlm.nih.gov/38760431/)；[Site-Specific Quadruple-Functionalised Antibodies](https://pubmed.ncbi.nlm.nih.gov/39423140/) | Bernardes团队在均一multi-payload和四功能化抗体方面最集中、期刊质量最高。 |
+| CD276/B7-H3双载荷ADC | T003 | 第一梯队 | [A Dual-Payload Antibody-Drug Conjugate Targeting CD276/B7-H3 Elicits Cytotoxicity and Immune Activation in Triple-Negative Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/39186778/)；[Advanced CD276-Targeting Dual-Payload Antibody-Drug Conjugates for Cancer Therapy](https://pubmed.ncbi.nlm.nih.gov/42013359/) | Liu/Zhou团队有连续直接双payload论文，是该靶点方向核心团队。 |
+| Exatecan+Triptolide双载荷组合 | T004 | 第一梯队 | [A Novel Dual-Payload ADC Platform Integrating Exatecan and Triptolide to Enhance Antitumor Efficacy and Overcome Resistance](https://pubmed.ncbi.nlm.nih.gov/41121984/) | Kanghong团队是该具体payload组合的直接来源。 |
+| 双载荷双特异性ADC | T005 | 第一梯队 | [A Dual-Payload Bispecific ADC Improved Potency and Efficacy over Single-Payload Bispecific ADCs](https://pubmed.ncbi.nlm.nih.gov/40870990/) | Tavotek团队直接比较dual-payload bispecific ADC与single-payload bispecific ADC。 |
+| 均一双载荷偶联制备 | T006;T007;T009 | 并列第一/第二梯队 | [Homogeneous Dual-Payload Antibody-Drug Conjugates Produced by Combined Distinct Conjugation Strategies](https://pubmed.ncbi.nlm.nih.gov/40666474/)；[Homogeneous antibody-drug conjugates with dual payloads: potential, methods and considerations](https://pubmed.ncbi.nlm.nih.gov/40322862/)；[Enabling the synthesis of multi-payload thio-antibody conjugates through the use of pyridazinediones, p-anisidine derivatives and various click chemistries](https://pubmed.ncbi.nlm.nih.gov/41726384/) | Ajinomoto有直接均一双payload制备，Sutro提供方法综述，Chudasama提供多payload偶联化学。 |
+| multi-drug ADC与DAR基础 | T010 | 第一梯队支撑 | [Orthogonal Cysteine Protection Enables Homogeneous Multi-Drug Antibody-Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/27966822/)；[Effects of drug loading on the antitumor activity of a monoclonal antibody drug conjugate](https://pubmed.ncbi.nlm.nih.gov/15501986/) | Seagen团队在正交半胱氨酸保护和DAR/药物负载基础方面权威。 |
+| TOP1 payload与旁观者效应 | T011 | 第一梯队支撑 | [Bystander killing effect of DS-8201a, a novel anti-human epidermal growth factor receptor 2 antibody-drug conjugate, in tumors with human epidermal growth factor receptor 2 heterogeneity](https://pubmed.ncbi.nlm.nih.gov/27166974/)；[Novel antibody drug conjugates containing exatecan derivative-based cytotoxic payloads](https://pubmed.ncbi.nlm.nih.gov/26898815/)；[The Latest Research and Development into the Antibody-Drug Conjugate, fam-Trastuzumab Deruxtecan (DS-8201a), for HER2 Cancer Therapy](https://pubmed.ncbi.nlm.nih.gov/30827997/)；[Safety, pharmacokinetics, and antitumour activity of trastuzumab deruxtecan (DS-8201), a HER2-targeting antibody-drug conjugate, in patients with advanced breast and gastric or gastro-oesophageal tumours: a phase 1 dose-escalation study](https://pubmed.ncbi.nlm.nih.gov/29037983/)；[Trastuzumab deruxtecan (DS-8201a) in patients with advanced HER2-positive breast cancer previously treated with trastuzumab emtansine: a dose-expansion, phase 1 study](https://pubmed.ncbi.nlm.nih.gov/31047803/) | Daiichi Sankyo/T-DXd团队是DXd/TOP1 payload、旁观者效应和HER2 ADC临床转化的重要权威。 |
+| 双载荷ADC临床药理 | T012 | 第一梯队 | [Clinical Pharmacology and Translational Science Considerations in the Development of Dual-Payload Antibody Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/42089685/) | Astellas团队对dual-payload ADC临床药理问题定义最直接。 |
+| 双载荷免疫微环境调控 | T008 | 第一梯队 | [Igniting cold tumors: reprogramming the tumor immune microenvironment with dual-payload ADCs in combination with PD-L1&4-1BB bispecific antibodies](https://pubmed.ncbi.nlm.nih.gov/42236121/) | USTC团队直接研究双载荷ADC联合免疫双抗重塑肿瘤免疫微环境。 |
+| B7-H3临床转化背景 | T013 | 第一梯队支撑 | [A B7H3-targeting antibody-drug conjugate in advanced solid tumors: a phase 1/1b trial](https://pubmed.ncbi.nlm.nih.gov/40082695/) | MediLink相关Nat Med论文支撑B7-H3 ADC临床可行性，但不是dual-payload专属。 |
+| HER2双payload临床设计 | T014 | 新兴第一梯队 | [Phase 1/2 study of CLIO-8221, a HER2-targeted, dual-payload exatecan and ATR inhibitor antibody-drug conjugate (ADC) in patients with advanced HER2-expressing solid tumors](https://ascopubs.org/doi/10.1200/JCO.2026.44.16_suppl.TPS3162) | CLIO-8221 JCO/ASCO摘要是HER2 dual-payload ADC临床设计公开证据。 |

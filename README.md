@@ -13,10 +13,13 @@
 - `detail-04-dual-payload-adc-team-details.html`：双 payload ADC 部分团队/公司详细情况报告
 - `detail-cns-paper-list.html`：双 payload ADC CNS 系列及子刊全口径论文清单
 - `detail-adc-cns-paper-list.html`：ADC CNS 系列及子刊论文清单
+- `detail-upload-01-dual-payload-adc-teams.html`：双 payload ADC 顶尖团队/公司研究方向与科研关系报告（上传版）
+- `detail-upload-02-adc-linker-teams.html`：ADC linker 顶尖团队/公司研究方向与科研关系报告（上传版）
+- `detail-upload-03-dual-payload-adc-linker-teams.html`：双 payload ADC linker 顶尖团队/公司研究方向与科研关系报告（上传版）
 
 ## 资料来源
 
-原始 Markdown 文件保存在 `content/` 目录。网页由 `scripts/build-pages.mjs` 自动生成。
+原始 Markdown 文件保存在 `content/` 目录，新增上传版保存在 `content/uploaded/`。网页由 `scripts/build-pages.mjs` 自动生成。
 
 ## GitHub Pages
 
