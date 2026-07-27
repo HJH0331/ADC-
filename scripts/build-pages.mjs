@@ -83,6 +83,19 @@ const documents = [
     purpose: "用于补充 ADC linker、双 payload ADC 和团队调研中的论文质量判断，区分原始研究、综述、新闻分析、临床研究和间接背景材料。",
     outcomes: ["ADC CNS/子刊论文清单", "Nature/Cell/Science 期刊族来源", "JIF 与机构信息", "研究方向标注"],
     useCases: ["论文质量核查", "查找 ADC 高影响综述和原始研究", "补强团队/公司权威等级判断"]
+  },
+  {
+    key: "G",
+    source: "content/dual-payload-adc-ai-optimization.md",
+    output: "detail-dual-payload-adc-ai-optimization.html",
+    title: "针对双 payload ADC 共性缺陷的 AI 研究方向",
+    shortTitle: "双 payload ADC AI 优化方向",
+    category: "研究方向设计",
+    tag: "资料 G",
+    lead: "基于已调研 CNS / Nature Portfolio 体系论文，总结双 payload ADC 共性缺陷，并提出可计算、可验证的 AI 优化研究方向。",
+    purpose: "用于把论文清单中的证据进一步转化为可执行的研究选题、模型设计和验证框架。",
+    outcomes: ["共性缺陷总结", "AI 优化方向", "干实验选题", "研究设计框架"],
+    useCases: ["设计论文选题", "准备导师讨论", "从文献证据推导 AI 优化任务"]
   }
 ];
 
@@ -375,7 +388,7 @@ function renderIndex() {
   <header class="wrap">
     <span class="eyebrow">ADC research library｜上传调研日期：${researchDate}</span>
     <h1>ADC 调研资料库平台</h1>
-    <p class="lead">把双 payload ADC、ADC linker、双 payload linker、重点团队详情和 CNS 论文证据整理成可分享、可核验、可持续更新的 GitHub Pages 资料库。</p>
+    <p class="lead">把双 payload ADC、ADC linker、双 payload linker、重点团队详情、CNS 论文证据和 AI 优化研究方向整理成可分享、可核验、可持续更新的 GitHub Pages 资料库。</p>
     <div class="hero-grid">
       <div class="card">
         <h3>平台目标</h3>
@@ -391,6 +404,7 @@ function renderIndex() {
           <li>3 份初始领域团队调研</li>
           <li>1 份重点团队详细档案</li>
           <li>2 份 CNS/子刊论文证据清单</li>
+          <li>1 份双 payload ADC AI 优化研究方向</li>
           <li>每页统一标注上传调研日期</li>
         </ul>
       </div>
@@ -403,7 +417,7 @@ function renderIndex() {
     </section>
     <section id="library" class="wrap">
       <h2>资料分类详情页</h2>
-      <p class="sub">点击每张卡片进入对应详情页。01-03 是初始领域团队调研，04 是 01 中部分团队的详细档案，资料 E-F 用于校准高质量论文证据。</p>
+      <p class="sub">点击每张卡片进入对应详情页。01-03 是初始领域团队调研，04 是 01 中部分团队的详细档案，资料 E-F 用于校准高质量论文证据，资料 G 用于沉淀 AI 优化研究方向。</p>
       <div class="grid-2">${tasks}</div>
     </section>
     <section id="workflow" class="wrap">
@@ -414,6 +428,7 @@ function renderIndex() {
           <li>再看资料 B 和 C，分别拆分 ADC linker 与双 payload linker 的技术证据。</li>
           <li>对重点团队进入资料 D，查看更详细的组织、成果、成员和合作网络。</li>
           <li>最后用资料 E-F 核查 CNS/子刊论文来源质量，校正权威等级和代表论文优先级。</li>
+          <li>需要设计后续研究时，查看资料 G，将文献缺陷转化为 AI 优化选题。</li>
         </ul>
       </div>
     </section>
